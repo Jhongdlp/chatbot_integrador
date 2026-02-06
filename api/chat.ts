@@ -1,4 +1,4 @@
-import { redis, supabase, openai, CORS_HEADERS, Message } from './utils.ts';
+import { redis, supabase, openai, CORS_HEADERS, Message } from './utils.js';
 import type { VercelRequest, VercelResponse } from '@vercel/node';
 
 // Constants

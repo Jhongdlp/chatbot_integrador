@@ -76,7 +76,10 @@ const ChatMessage = ({ msg, isLatest }: { msg: MessageWithMetadata; isLatest: bo
     <div>
       <div className={`flex ${msg.role === 'user' ? 'justify-end' : 'justify-start'}`}>
         <div
-          className={`max-w-[85%] p-4 rounded-2xl text-sm ${
+          className={`
+            p-3 sm:p-4 rounded-2xl text-sm
+            max-w-[90%] sm:max-w-[85%]
+            ${
             msg.role === 'user'
               ? 'bg-blue-600 text-white rounded-br-none'
               : 'bg-white dark:bg-zinc-800 text-zinc-800 dark:text-zinc-200 border border-zinc-200 dark:border-zinc-700 rounded-bl-none shadow-sm'
@@ -244,7 +247,10 @@ export default function Chatbot() {
             whileHover={{ scale: 1.1 }}
             whileTap={{ scale: 0.9 }}
             onClick={() => setIsOpen(true)}
-            className="fixed bottom-6 right-6 z-50 bg-blue-600 text-white p-4 rounded-full shadow-lg hover:bg-blue-700 transition-colors"
+            className="
+              fixed z-50 bg-blue-600 text-white rounded-full shadow-lg hover:bg-blue-700 transition-colors
+              bottom-4 right-4 p-3 sm:bottom-6 sm:right-6 sm:p-4
+            "
           >
             <MessageCircle size={24} />
           </motion.button>
@@ -259,10 +265,21 @@ export default function Chatbot() {
               opacity: 1, 
               y: 0, 
               scale: 1,
-              height: isMinimized ? 'auto' : '600px'
+              height: isMinimized ? 'auto' : 'calc(100vh - 1rem)'
             }}
             exit={{ opacity: 0, y: 100, scale: 0.9 }}
-            className={`fixed bottom-6 right-6 z-50 w-full max-w-[420px] bg-white dark:bg-zinc-900 rounded-2xl shadow-2xl overflow-hidden border border-zinc-200 dark:border-zinc-800 flex flex-col transition-all duration-300`}
+            className={`
+              fixed z-50 bg-white dark:bg-zinc-900 rounded-2xl shadow-2xl overflow-hidden 
+              border border-zinc-200 dark:border-zinc-800 flex flex-col transition-all duration-300
+              
+              /* Mobile: full screen minus small margin */
+              bottom-0 right-0 left-0 mx-2 mb-2
+              w-auto max-w-full
+              
+              /* Tablet and up: floating widget */
+              sm:bottom-6 sm:right-6 sm:left-auto sm:mx-0 sm:mb-0
+              sm:w-full sm:max-w-[420px]
+            `}
           >
             {/* Header */}
             <div className="bg-gradient-to-r from-blue-600 to-blue-700 p-4 flex items-center justify-between text-white shrink-0">
@@ -297,7 +314,7 @@ export default function Chatbot() {
               <>
                 {/* Suggested Questions */}
                 {showSuggestions && messages.length === 1 && (
-                  <div className="p-3 bg-blue-50 dark:bg-blue-900/20 border-b border-blue-100 dark:border-blue-800">
+                  <div className="p-2 sm:p-3 bg-blue-50 dark:bg-blue-900/20 border-b border-blue-100 dark:border-blue-800">
                     <p className="text-xs font-medium text-blue-900 dark:text-blue-200 mb-2">Preguntas frecuentes:</p>
                     <div className="flex flex-wrap gap-2">
                       {SUGGESTED_QUESTIONS.map((q, idx) => (
@@ -313,7 +330,7 @@ export default function Chatbot() {
                   </div>
                 )}
 
-                <div className="flex-1 overflow-y-auto p-4 space-y-4 bg-zinc-50 dark:bg-zinc-900/50">
+                <div className="flex-1 overflow-y-auto p-3 sm:p-4 space-y-3 sm:space-y-4 bg-zinc-50 dark:bg-zinc-900/50">
                   {messages.map((msg, idx) => (
                     <ChatMessage 
                       key={msg.id || idx} 

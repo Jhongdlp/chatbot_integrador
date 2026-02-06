@@ -4,6 +4,8 @@ import DiagnosisPage from './pages/DiagnosisPage';
 import BrigadasPage from './pages/BrigadasPage';
 import WhatsAppPage from './pages/WhatsAppPage';
 
+import Chatbot from './components/Chatbot/Chatbot';
+
 function App() {
     return (
         <Router>
@@ -14,6 +16,7 @@ function App() {
                     <Route path="/brigadas" element={<BrigadasPage />} />
                     <Route path="/taller-whatsapp" element={<WhatsAppPage />} />
                 </Routes>
+                <Chatbot />
             </div>
         </Router>
     );

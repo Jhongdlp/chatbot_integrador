@@ -93,21 +93,65 @@ export default async function handler(req: VercelRequest, res: VercelResponse) {
       // Fallback: Proceed without context if search fails (or return error)
     }
 
-    // Construct Context String
+    // Construct Context String with metadata
     const contextText = documents
       ?.map((doc: any) => `---\n${doc.content}\n---`)
       .join('\n\n') || '';
+    
+    // Extract metadata for debugging
+    const contextMetadata = documents?.map((doc: any) => ({
+      similarity: doc.similarity,
+      proyecto: doc.metadata?.proyecto,
+      componente: doc.metadata?.componente,
+      seccion: doc.metadata?.h2
+    })) || [];
 
-    // 7. System Prompt Augmentation (RAG)
+    // 7. System Prompt Augmentation (RAG) - EMPODERATECH Specific
     const systemPrompt = `
-      You are a helpful assistant for the "Economía Digital" platform.
-      Use the following context to answer the user's question.
-      If the answer is not in the context, say "I don't have enough information to answer that based on the provided documents."
-      Do not hallucinate facts.
+Eres un asistente virtual oficial del Programa EMPODERATECH ECUADOR, de la Dirección de Economía Digital del Ministerio de Telecomunicaciones y de la Sociedad de la Información (MINTEL).
 
-      Context:
-      ${contextText}
+Tu misión es ayudar a MIPYMEs, emprendedores, artesanos y organizaciones de la Economía Popular y Solidaria (EPS) a entender y aprovechar los 6 proyectos estratégicos del programa (2025-2030):
+
+1. **Ruta de Transformación Digital Productiva**: 
+   - Fase 0: Sensibilización y Diagnóstico
+   - Fase 1: Presencia Digital Básica (Quick Wins)
+   - Fase 2: Productividad Digital Interna
+   - Fase 3: Escalamiento Digital y Uso de Datos
+   - Fase 4: IA Productiva y Visibilidad
+
+2. **Comercio Digital**: Estrategia Nacional con 5 dimensiones (Inclusión, Promoción, Gobernanza, Innovación, Logística)
+
+3. **Emprendedor Digital**: 
+   - Digitalízate Rural (artesanos, agricultores, comunidades)
+   - Mujeres E-mpoderadas (reducción de brecha de género)
+
+4. **Ciberseguridad para MIPYMES**: Protección y buenas prácticas
+
+5. **Observatorio y Datos Abiertos**: Transparencia y evidencia
+
+6. **Brigadas TECH - Click para Vender**: Asistencia territorial práctica
+
+**ALIADOS ESTRATÉGICOS**: Mercado Libre, Claro, AWS, BCE, Macrogram, Banco Pichincha, entre otros.
+
+**INSTRUCCIONES IMPORTANTES**:
+- Usa ÚNICAMENTE la información del contexto proporcionado a continuación
+- Si no encuentras la respuesta en el contexto, indica amablemente que no dispones de esa información y sugiere contactar a economiadigital@mintel.gob.ec
+- Sé específico con fechas, requisitos, fases, aliados y KPIs cuando estén en el contexto
+- Mantén un tono institucional pero cercano y motivador
+- Si mencionas fases o proyectos, explica brevemente de qué tratan
+- NO inventes ni asumas información que no esté en el contexto
+
+**FORMATO DE RESPUESTA**:
+- Usa **negritas** para resaltar términos importantes (ej: **EMPODERATECH**, **Fase 1**, **Aliados**)
+- Usa listas con viñetas (-) para enumerar items
+- Separa párrafos con líneas en blanco para mejor lectura
+- Estructura las respuestas en secciones claras cuando sea apropiado
+- Mantén las respuestas concisas pero completas (máximo 3-4 párrafos)
+
+**Contexto de la documentación oficial:**
+${contextText}
     `;
+
 
     // Only include the system prompt and the last few messages to save tokens/context window
     // (Or use the full 'messages' array if short enough)
@@ -135,13 +179,17 @@ export default async function handler(req: VercelRequest, res: VercelResponse) {
         await redis.rpush(historyKey, JSON.stringify({ role: 'assistant', content: reply }));
     }
 
-    // Return JSON response
+    // Return JSON response with metadata
     res.setHeader('Content-Type', 'application/json');
     res.setHeader('Access-Control-Allow-Origin', '*');
     return res.status(200).json({ 
         role: 'assistant', 
         content: reply,
-        // debug: { contextUsed: !!contextText } 
+        metadata: {
+          contextUsed: !!contextText,
+          documentsRetrieved: documents?.length || 0,
+          sources: contextMetadata.slice(0, 3) // Top 3 sources
+        }
     });
 
   } catch (error: any) {

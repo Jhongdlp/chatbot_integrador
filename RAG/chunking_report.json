@@ -1,0 +1,19 @@
+{
+  "timestamp": "2026-02-06 00:14:16",
+  "total_chunks": 43,
+  "successful_uploads": 43,
+  "errors": 0,
+  "total_tokens": 12584,
+  "avg_tokens_per_chunk": 292.6511627906977,
+  "global_metadata": {
+    "titulo": "Planificación Dirección de Economía Digital 2025-2030",
+    "documento": "PLANIFICACIÓN-DIR.ECONOMIADIGITAL25-30_VF",
+    "organismo": "MINTEL - Ministerio de Telecomunicaciones y de la Sociedad de la Información del Ecuador",
+    "programa_principal": "EMPODERATECH ECUADOR",
+    "periodo": "2025-2030",
+    "fecha_extraccion": "2026-02-05",
+    "total_paginas": 44,
+    "tipo_documento": "Planificación Estratégica",
+    "version": "Versión Final"
+  }
+}

@@ -1,0 +1,2167 @@
+
+================================================================================
+PÁGINA 1
+================================================================================
+
+Página | 1
+
+
+================================================================================
+PÁGINA 2
+================================================================================
+
+Página | 2
+
+
+================================================================================
+PÁGINA 3
+================================================================================
+
+Página | 3 
+ 
+ 
+ 
+ 
+La economía digital no es un sector aislado; es un ecosistema transversal que transforma 
+la manera en que los bienes y servicios se producen, consumen e intercambian y 
+redefine la organización de la sociedad. Se sustenta en tecnologías digitales como 
+internet, inteligencia artificial, big data, blockchain, comercio electrónico y aplicaciones 
+móviles, que se convierten en motores tangibles de desarrollo económico y social. 
+En Ecuador, la economía digital representa una oportunidad estratégica para 
+incrementar ventas, generar empleo, potenciar exportaciones y mejorar la productividad 
+de manera tangible y medible . Sus componentes clave incluyen infraestructura digital, 
+comercio electrónico, servicios financieros digitales, gobierno digital, capital humano 
+digital, innovación y emprendimiento y la economía de plataformas. 
+En este contexto, la gestión de esta Dirección buscar generar resultados concretos en el 
+corto plazo, consolidar un ecosistema competitivo e inclusivo a mediano plazo , y 
+posicionar a Ecuador como un referente regional en innovación y transformación digital, 
+bajo los siguientes principios rectores: 
+- Orientación a impacto : todo programa generado demostrará mejoras en ventas, 
+empleo, productividad y exportaciones. 
+- Visión regional y global: buscando posicionar a Ecuador como referente en 
+LATAM en economía digital. 
+- Colaboración público -privada: apertura y repotenciación de alianzas con 
+gremios, cámaras, universidades, organismos multilaterales y empresas 
+tecnológicas claves en el ecosistema . 
+- Quick wins visibles: resultados rápidos que muestren liderazgo y capacidad de 
+ejecución. 
+En síntesis, la economía digital es el puente entre la innovación tecnológica y el 
+desarrollo económico y social del país, y esta Dirección asume el reto de liderar ese 
+proceso de manera estratégica y efectiva. 
+A continuación, se presenta un roadmap, con tres fases claras: instalación, quick wins 
+de alto impacto y consolidación. Esta planificación nos permitirá mostrar que Ecuador 
+no solo habla de digitalización, sino que la convierte en ventas, empleo y exportac iones 
+reales. Son acciones de impacto rápido que darán legitimidad a nuestra Dirección y 
+confianza a los actores públicos y privados. 
+ 
+ INTRODUCCIÓN
+
+
+================================================================================
+PÁGINA 4
+================================================================================
+
+Página | 4 
+ 
+ 
+ 
+ 
+Roadmap 2025/ 2030 Dirección de Economía Digital 
+y Servicios para la Sociedad de la Información 
+Objetivo: La Dirección de Economía Digital se posiciona como motor de transformación 
+productiva y social del Ecuador, con una hoja de ruta clara, medible y alineada a las 
+metas nacionales. Esta estrategia garantizará que el país no solo cierre brechas digitales, 
+sino que genere empleo, abra camino para las exportaciones y eleve la competitividad 
+en el marco de la economía global digital. 
+Enfoque de la planificación: 
+• Acceso/uso: usuarios activos mensuales, finalización de cursos . 
+• Impacto económico: ventas online, empleo generado, reducción de costos. 
+• Equidad: % mujeres, % rural, pueblos y nacionalidades 
+• Sostenibilidad: alianzas activas, escalamiento 
+ 
+Justificación metodológica de la planificación 
+La definición de los proyectos estratégicos de la Dirección de Economía Digital se realizó 
+aplicando un enfoque integral que combina metodologías de planeación y gestión 
+internacionalmente reconocidas. En primer lugar, se utilizó el marco del Balanced 
+Scorecard (BSC) para garantizar la alineación de cada iniciativa con los objetivos 
+institucionales y las políticas nacionales de transformación digital, estableciendo 
+indicadores claros y verificables. Adicionalmente, se aplicaron prácticas de gestión de 
+proye ctos bajo los lineamientos del PMI (PMBOK) , lo que permitió estructurar cada 
+propuesta con fases, responsables, cronogramas y mecanismos de control de riesgos. 
+De manera complementaria, se incorporaron metodologías de innovación pública y co -
+creación (Design Thinking) para asegurar que las soluciones respondan de manera 
+efectiva a las necesidades de los diferentes actores del ecosistema digital, con un 
+enfoque participativo y centrado en el usuario. Todo el proceso se sustentó en la lógica 
+de política públi ca basada en evidencia , utilizando datos nacionales y mejores prácticas 
+internacionales, y se alineó con los Objetivos de Desarrollo Sostenible (ODS) , lo que no 
+solo fortalece la pertinencia de las acciones, sino que además abre oportunidades de 
+cooperación y financiamiento internacional.” ROAD MAP 
+GESTIÓN 25 -30
+
+
+================================================================================
+PÁGINA 5
+================================================================================
+
+Página | 5 
+ 
+ 
+POLITICAS, PLANES, PROGRAMAS Y PROYECTOS 
+Corto Plazo - Mediano Plazo - Largo Plazo 
+ 
+Programa Nacional “ EMPODERATECH ECUADOR 
+TRANSFORMACIÓN DIGITAL PRODUCTIVA 2025 -2030” 
+ 
+Objetivo del programa : Acelerar la transformación digital productiva de las micro, 
+pequeñas y medianas empresas (MIPYMES), emprendedores, artesanos y 
+organizaciones de la Economía Popular y Solidaria (EPS), fortaleciendo su 
+competitividad, productividad, formalización y acceso a mercados locales e 
+internacionales, mediante el uso estratégico de tecnologías digitales, datos, comercio 
+electró nico e innovación. 
+Principios rectores 
+• Orientación a impacto económico medible (ventas, empleo, exportaciones). 
+• Inclusión productiva y territorial. 
+• Digitalización progresiva según madurez digital. 
+• Articulación público -privada y cooperación internacional. 
+• Resultados tempranos (quick wins) con escalabilidad nacional 
+FODA 
+Con el propósito de fortalecer la planificación estratégica del Programa Nacional 
+EMPODERATECH ECUADOR 2025-2030, se realizó un análisis FODA como herramienta 
+de diagnóstico estratégico que permite identificar las fortalezas y debilidades internas, 
+así como las oportunidades y amenazas del entorno, que inciden en la implementación 
+y sostenibilidad del programa. 
+Este análisis constituye un insumo clave para la toma de decisiones estratégicas, la 
+priorización de acciones y la definición de estrategias orientadas a maximizar el impacto 
+económico, social y territorial de la transformación digital productiva, aseguran do la 
+alineación con las políticas públicas nacionales, la articulación interinstitucional y la 
+adecuada gestión de riesgos.
+
+
+================================================================================
+PÁGINA 6
+================================================================================
+
+Página | 6 
+ 
+Los resultados del análisis FODA permiten orientar los proyectos emblema del programa 
+hacia un enfoque de impacto medible, inclusión productiva y escalabilidad, facilitando 
+la identificación de ventajas competitivas, brechas estructurales y factores crític os del 
+entorno que deben ser gestionados para el logro de los objetivos estratégicos 
+planteados. 
+1 Fortalezas 
+• Enfoque integral y progresivo de 
+transformación digital. 
+• Liderazgo institucional del MINTEL 
+y articulación interinstitucional. 
+• Alineación con políticas 
+nacionales y cooperación 
+internacional. 
+• Uso de quick wins para generar 
+legitimidad temprana. 2 Oportunidades 
+• Crecimiento sostenido del 
+comercio electrónico y la 
+economía digital. 
+• Interés del sector privado 
+(marketplaces, telcos, fintech). 
+• Disponibilidad de cooperación 
+técnica y financiera 
+internacional *. 
+• Demanda creciente de 
+digitalización en escenarios 
+postpandemia . 
+ 
+3 Debilidades 
+• Limitaciones presupuestarias para 
+escalamiento inmediato. 
+• Brechas de capacidades técnicas 
+en territorio. 
+• Dependencia de articulación 
+interinstitucional efectiva. 
+• Heterogeneidad del nivel digital 
+de los beneficiarios . 4 Amenazas 
+• Resistencia cultural al cambio 
+digital. 
+• Riesgos de ciberseguridad y 
+fraudes digitales. 
+• Cambios tecnológicos acelerados 
+que requieren actualización 
+constante. 
+• Desigualdad en conectividad en 
+zonas rurales. 
+ 
+Justificación 
+El Programa Nacional EMPODERATECH ECUADOR nace de la necesidad de convertir la 
+digitalización en un motor real de desarrollo productivo, superando enfoques 
+fragmentados centrados únicamente en conectividad o capacitación aislada. 
+En Ecuador, las MIPYMES, artesanos y organizaciones de la EPS representan más del 90% 
+del tejido productivo y generan la mayor parte del empleo; sin embargo, enfrentan bajos 
+niveles de madurez digital, limitada adopción de comercio electrónico, escaso uso de 
+datos y dificultades para acceder a mercados digitales nacionales e internacionales. 
+El programa articula políticas, proyectos y actores bajo un paraguas único, orientado al 
+impacto económico medible (ventas, empleo y acercamiento a las exportaciones), 
+alineado con la Estrategia de Comercio Digital 20230 , con la Estrategia Nacional de
+
+
+================================================================================
+PÁGINA 7
+================================================================================
+
+Página | 7 
+ 
+Economía Digital y los Objetivos de Desarrollo Sostenible (ODS), generando legitimidad 
+institucional y sostenibilidad en el tiempo. 
+Estructura del programa: proyectos emblema 
+El Programa EMPODERATECH ECUADOR se operacionaliza a través de 6 proyectos 
+emblema, que estructuran la planificación estratégica y operativa de la Dirección: 
+ 
+ 
+PROYECTO 1 
+RUTA DE TRANSFORMACIÓN DIGITAL PRODUCTIVA 
+ 
+Proyecto orientado a acompañar de manera estructurada y progresiva a micro, 
+pequeñas y medianas empresas (MIPYMES), emprendedores, artesanos y EPS en su 
+proceso de transformación digital productiva. La Ruta establece fases claras que van
+
+
+================================================================================
+PÁGINA 8
+================================================================================
+
+Página | 8 
+ 
+desde la sensibilización y el diagnóstico digital hasta el escalamiento mediante comercio 
+electrónico, uso de datos, innovación e inteligencia artificial aplicada a los negocios. 
+Público Objetivo 
+• Directo: MIPYMES de sectores productivos clave (comercio, turismo, 
+manufactura ligera, agroindustria). 
+• Indirecto: Cámaras empresariales, universidades, GADs, plataformas digitales y 
+fintechs. 
+Alcance 
+• Implementación de una ruta de transformación digital con fases diferenciadas 
+(básico, intermedio y avanzado). 
+• Atención directa a MIPYMES , eps, artesan os y emprendedores 
+• Intervención territorial con pilotos urbanos y rurales, con posibilidad de 
+escalamiento nacional. 
+• Articulación con programas de formación , comercio electrónico y ciberseguridad 
+existentes. 
+Objetivo 
+Acompañar a MIPYMES, emprendedores, artesanos y EPS en procesos progresivos de 
+digitalización productiva, comercial y organizacional, según su nivel de madurez digital. 
+Componentes 
+• Fase 0: Sensibilización y Diagnóstico Digital Express. 
+• Fase 1: Presencia Digital Básica (quick wins). 
+• Fase 2: Productividad Digital Interna. 
+• Fase 3: Escalamiento Digital y Uso de Datos Avanzado . 
+• Fase 4: Comercio Electrónico y Marketing (SELLO DIGITAL) 
+ 
+Resultados esperados: 
+• Empresas clasificadas por nivel de madurez digital 
+• Incremento de productividad y eficiencia operativa 
+• Digitalización progresiva y sostenible 
+• Incremento en ventas 
+• Generación de empleo 
+• Primeros acercamientos a la exportación 
+ 
+Estrategia de Implementación
+
+
+================================================================================
+PÁGINA 9
+================================================================================
+
+Página | 9 
+ 
+• Alianza multisectorial: Instituciones públicas + sector privado (con especial 
+énfasis en Cámaras ) + Academia + Cooperación Internacional y socied ad civil. 
+• Enfoque territorial: pilotos en Quito, Guayaquil y zonas rurales seleccionadas. 
+• Activaciones: Se real izarán a corto p lazo 2 ediciones por año . A mediano 3 
+ediciones por año y a largo a 4 ediciones por año. (QW: Corto plazo (2026), 
+Mediano Plazo (2028), Largo plazo (2030) ). 
+• Modelo escalable: Incrementar la digitalización de mipymes en tecnologías 
+digitales de 0 en el año 2024 a 4.000 en 2029 / Para el año 2029, se prevé alcanzar 
+800 mipymes digitalizadas que aplican los conocimientos en al menos un proceso 
+productivo o comercial . 
+ 
+Activida des de arranque: 
+• Evento de lanzamiento del programa EMPODERATECH ECUADOR y la ruta de 
+transformación digital (29 de Oct 2025) 
+• Articulación con actores (CCQ, CCG, IEPS, Mercado Libre , Claro, AWS* ) 
+• Suscripción de cartas de compromiso 
+ 
+Fases Ruta de Transformación Digital 
+Fase 0 - Sensibilización y Diagnóstico Digital 
+La Fase 0 constituye la etapa inicial y habilitante del programa EMPODERATECH 
+ECUADOR, orientada a sensibilizar a las MIPYMES, emprendedores, artesanos y 
+organizaciones de la EPS sobre la importancia estratégica de la transformación digital, 
+así como a diagnosticar su nivel de madurez digital productiva, comercial y 
+organizacional. 
+Esta fase permite establecer una línea base técnica que orienta la asignación de rutas, 
+herramientas y acompañamiento adecuados a cada unidad productiva según su nivel de 
+madurez digital , garantizando una intervención eficiente, focalizada y basada en 
+evidencia. En esta fase se considera : 
+• Sensibilización y enganche: Difusión, campañas de interés en participar de las 
+convoca torias . 
+• Diagnóstico Digital Express : Herramienta sencilla ( 20 preguntas) con el objetivo 
+de c onocer el nivel de madurez digital de cada empresa que puede ser básico, 
+intermedio o avanzado . 
+La Cooperación Alemana GIZ apoyará con la revisión de la metodológica de la 
+herramienta Diagnóstico Digital Express . 
+ 
+Alcance
+
+
+================================================================================
+PÁGINA 10
+================================================================================
+
+Página | 10 
+ 
+• Sensibilización inicial en transformación digital, comercio electrónico y uso 
+estratégico de tecnologías. 
+• Aplicación de diagnósticos digitales estandarizados (organizacionales, 
+productivos y comerciales) . 
+• Segmentación de beneficiarios según nivel de madurez digital. 
+• Priorización territorial y sectorial para la intervención. 
+Observaciones : 
+- Los emprendedores y mipymes evaluados que se encuentran en nivel Básico 
+entran a una evaluación de competencias digitales , los que necesiten de 
+alfabetización digital serán so portados por la Dirección de Cultura Digital y los 
+PDG s 
+- Se alinearán las rutas de aprendizaje de la Fundación C arlos Slim (C laro) para 
+los apartados de la ruta q ue puedan atenderse en formato híbri do. 
+ 
+ 
+Fase 1 - Presencia Digital Básica y Formalización Digital (Quick Wins) 
+La Fase 1 tiene como finalidad dotar a las MIPYMES , empre ndedores, artesanos y 
+organizaciones de la Economía Popular y Solidaria (EPS) de una presencia digital básica, 
+funcional y verificable, que les permita iniciar su proceso de inserción en el entorno 
+digital y comercial, generando resultados tempranos (quick wins) y sentando las bases 
+para fases posteriores de mayor complejidad. 
+Esta fase prioriza soluciones prácticas, de rápida implementación y bajo costo, 
+orientadas a mejorar la visibilidad digital, la formalización básica y el contacto efectivo 
+con clientes. 
+Objetivo: Implementar herramientas digitales esenciales que permitan a las unidades 
+productivas contar con visibilidad en línea, canales de contacto digitales y una identidad 
+digital mínima para iniciar actividades comerciales y de relacionamiento con clientes. 
+Actividades: 
+• Formalización (registros) 
+• Creación de correo corporativo (con dominio o Gmail empresarial). 
+• Registro en Google Business Profile y Meta Business. 
+• Creación de la página web 
+• Marketing digital básico (diseño de logo, fotografía, diseño de artes, catálogo de 
+productos, rrss, ingeniería de prom pts). 
+• Plus: Plan de negoci o + Marketing 
+ 
+Entregable: certificado / Mi H uella Digital . 
+KPIs: Meta: 80% de empresas del piloto con presencia online en 3 meses.
+
+
+================================================================================
+PÁGINA 11
+================================================================================
+
+Página | 11 
+ 
+Observaciones : 
+- Mercado Libre será el primer market linkag e nacional desde esta etapa, 
+MINTEL realizará el proceso de onboarding a la plataforma . 
+- Se evaluará un periodo sin costo por transacción para los beneficiarios de la 
+ruta. 
+- Claro facilitará ex pertos para masterclass de temas específicos de esta fase 
+ 
+Fase 2 - Productividad Digital Interna 
+La Fase 2 está orientada a mejorar la eficiencia operativa y organizacional de las 
+MIPYMES mediante la adopción de herramientas digitales que optimicen procesos 
+internos, reduzcan costos y mejoren la gestión administrativa, productiva y financiera. 
+Esta fase permite que la digitalización trascienda la visibilidad y se convierta en un factor 
+real de productividad y sostenibilidad empresarial. 
+Objetivo: Mejorar gestión y operaciones a través de la digitalización. 
+Actividades: 
+• Facturación electrónica 
+• Firma electrónica 
+• Gestión contable 
+• Manejo de inventarios 
+• CRM 
+• Implementación de herramientas para planificaci ón y seguimiento de tareas y 
+manejo de tiempos 
+• Plus: Ciberseguridad para mipymes 
+Entregable: Procesos básicos digitalizados. 
+KPIs: 
+• Meta: pasar de 20% en el 2026 a 80% de mipymes , emprendedores , artesanos , 
+y eps a l 2029 con al menos un proceso digitalizado . 
+ 
+Observaciones : 
+- Macrogram nos apoyará con la plataforma de gestión de inventarios, contable 
+y facturación para emprendedores ; MINTEL realizará el proceso de 
+onboarding a la plataforma . 
+- Claro facilitará ex pertos para masterclass de temas específicos de esta fase
+
+
+================================================================================
+PÁGINA 12
+================================================================================
+
+Página | 12 
+ 
+Fase 3 – Escala miento digital , uso de Datos e innovación 
+La Fase 3 busca habilitar a las MIPYMES para vender efectivamente en entornos 
+digitales, integrando plataformas de comercio electrónico, medios de pago digitales, 
+logística y estrategias de marketing digital, tanto en mercados nacionales como 
+internacional es. 
+Esta fase consolida la transición de la digitalización hacia la generación directa de 
+ingresos. 
+Objetivo: Desarrollar capacidades de comercio electrónico y marketing digital que 
+permitan a las MIPYMES incrementar sus ventas y ampliar su alcance de mercado. 
+Actividades: 
+• Talleres de plataformas e-commerce ( Etsy, H ubspot, Shopify, Mercado Libre, 
+WooCommerce , Amazon ). 
+• Capacitación en campañas de marketing digital ( ADS). 
+• Integración de medios de pago en línea. 
+• Capacitación en analítica digital (Google Analytics, Meta Business Suite). 
+• Manejo de herramientas en nube 
+• Market linkage (iniciativa que vincula a l os beneficiarios con plataform as locales 
+e internacionales para incrementar la venta de sus product o) 
+• Plus: Capacitación estrategi a de fidelización de cliente 
+KPIs: 
+• % de empresas que reportan su primera venta online. 
+Entregable: • Programa “Tu primera venta online” con acompañamiento 1 a 1. 
+- Apertura nuevos espacios de Market linkage con actores con presencia 
+internacional. 
+- BCE a través de su Estr ategia de Educación Financiera fortalecerá los aspectos 
+financieros de los em prendimientos 
+- Claro facilitará ex pertos para masterclass de temas específicos de esta fase 
+- *Banco Pichincha evaluar la cooperación de su pasarela de pagos y 
+marketplace 
+ 
+Fase 4 – IA producti va y Visibilidad 
+La Fase 4 e stá orientada a incorporar soluciones de inteligencia artificial y tecnologías 
+avanzadas en los procesos productivos, comerciales y de posicionamiento digital de las 
+MIPYMES, emprendedores, artesanos y organizaciones de la EPS, con el fin de optimizar 
+la toma de decisiones, automatizar procesos clave y aumentar la visibilidad digital en 
+mercados nacionales e internacionales.
+
+
+================================================================================
+PÁGINA 13
+================================================================================
+
+Página | 13 
+ 
+ 
+Esta fase consolida la transformación digital avanzada, permitiendo que las unidades 
+productivas transiten desde el uso básico de herramientas digitales hacia modelos de 
+negocio más inteligentes, escalables y competitivos, con especial énfasis en resultado s 
+económicos medibles. 
+Objetivo : Fortalecer la competitividad y el posicionamiento de las unidades productivas 
+mediante la adopción de inteligencia artificial aplicada, analítica avanzada y estrategias 
+de visibilidad digital que impulsen el crecimiento sostenible de sus ventas y su acceso a 
+nuevos mercados. 
+Actividades: 
+• Capacitación práctica en el uso de herramientas de IA generativa y analítica 
+aplicadas a negocios (chatbots , agentes virtuales) . 
+• Implementación de soluciones de automatización de marketing, atención al 
+cliente y ventas. 
+• Optimización de contenidos digitales mediante IA (catálogos, descripciones, 
+campañas). 
+• Asistencia técnica para posicionamiento digital y visibilidad en plataformas y 
+buscadores. 
+• Medición del impacto de la IA en productividad y ventas. 
+ 
+Entregable: Certificación de “MIPYME Digital Avanzada”. 
+KPIs: 
+• Nº de MIPYMES que incorporan herramientas de IA productiva. 
+ 
+- Claro facilitará ex pertos para masterclass de temas específicos de esta fase 
+- Se generarán Moodle para cada apartado que se considera en este proyecto. 
+- Replicar la prueba de madurez digital. 
+ 
+OPCION DEL MODELO EN EXPRESS: solo si hay beneficiario en nivel EXPERTO 
+ 
+Programa “Ruta de Transformac ión Digital Express” 
+• Diagnóstico 
+• Alianza con plataformas de e -commerce y pasarelas de pago (ej. Mercado 
+Libre, Shopify, AWS* , Payphone, BCE).
+
+
+================================================================================
+PÁGINA 14
+================================================================================
+
+Página | 14 
+ 
+• Paquete de digitalización en 30 días: digitalización + acceso a pagos online + 
+registro en plataformas. 
+Meta rápida: 500 a 1k MIPYMES , emprendedores, artesan os y eps vendiendo online 
+en 20 26. 
+Indicadores: aumento de ventas + empleos digitales indirectos. 
+ 
+Consideraciones del programa: 
+• Se estima que la Ruta de Transformación digital se dará su implementación en 6 
+meses a través de convocatorias (2 al año) . 
+• Depe ndiendo del segmento estas se ajustarán en contenido y temporalidad , 
+optando por las Briga das Tech: Click para vender para ciclos más cortos e 
+inmediatos. 
+ 
+PROYECTO 2 
+COMERCIO DIGITAL 
+Proyecto orientado a diseñar, implementar y operacionalizar la Estrategia Nacional de 
+Comercio Digital 2025 -2030, como instrumento rector para el desarrollo del comercio 
+electrónico y digital del país, garantizando un ecosistema confiable, inclusivo, 
+competitivo y sostenible, que impulse el crecimiento de las MIPYMES, emprendedores, 
+artesanos y organizaciones de la Economía Popular y Solidaria (EPS).
+
+
+================================================================================
+PÁGINA 15
+================================================================================
+
+Página | 15 
+ 
+El proyecto se estructura sobre el enfoque de cadena de valor del comercio digital , 
+organizando las intervenciones en cinco dimensiones estratégicas , que permiten 
+abordar de manera integral las brechas de acceso, capacidades, gobernanza, 
+innovación, logística y comercio transfronterizo, garantizando coherencia entre política 
+pública, ejecución operativa y resultados económicos medibles. 
+ 
+Objetivo : Impulsar la transformación digital del comercio en el Ecuador mediante la 
+implementación de un marco integral de políticas, programas y alianzas estratégicas que 
+fortalezcan la confianza en el ecosistema digital, incrementen la participación de 
+MIPYMES y c iudadanía en la economía digital y generen un crecimiento sostenido en 
+productividad, formalización, empleo y exportaciones digitales al 2030. 
+ 
+Estruct ura del proyecto por dimensiones estratégicas 
+1. DIMENSIÓN 1. COMERCIO DIGITAL INCLUSIVO Y SOSTENIBLE 
+Objetivo Estratégico : Garantizar la participación equitativa y sostenible de 
+ciudadanos y empresas en el comercio digital mediante la reducción de brechas 
+de acceso, capacidades, accesibilidad y sostenibilidad en todo el territorio 
+nacional. 
+Líneas de Acción Prioritarias 
+• Inclusión digital de mujeres , mipymes y grupos vulnerables 
+• Digitalización de trámites y servicios públicos de apoyo al comercio digital 
+• Adopción masiva de pagos digitales e interoperabilidad 
+• Cultura y alfabetización digital 
+• Conectividad y digitalización productiva 
+Actividades Clave
+
+
+================================================================================
+PÁGINA 16
+================================================================================
+
+Página | 16 
+ 
+• Promover proyectos y/o programas de inclusión digital que prioricen la 
+participación de mujeres y grupos en situación de vulnerabilidad en el 
+ecosistema del comercio digital. 
+• Implementar un Entorno Virtual de Aprendizaje que incluya contenidos 
+especializados en Comercio Digital. 
+• Fomentar la adopción masiva y segura de medios de pago digitales en el 
+país. (BCE) 
+• Establecer mecanismos de interoperabilidad para los pagos digitales en 
+tiempo real. (BCE) 
+• Diseñar un Plan Nacional de Sensibilización y Cultura Digital que 
+promueva el uso responsable y productivo de las tecnologías digitales. 
+• Fortalecer el proceso de digitalización de trámites y servicios en el sector 
+público. 
+• Incorporar la formación progresiva en comercio digital en todos los 
+niveles del sistema educativo, desde la educación inicial hasta la superior. 
+(MINEDEC) 
+• Promover la digitalización de procesos en empresas, emprendimientos y 
+ciudadanía para fortalecer la economía digital nacional . 
+ 
+2. DIMENSIÓN 2. PROMOCIÓN DEL COMERCIO DIGITAL (NACIONAL E 
+INTERNACIONAL) 
+Objetivo Estratégico : Impulsar la visibilidad, competitividad y posicionamiento 
+del comercio digital ecuatoriano en mercados nacionales e internacionales, 
+fortaleciendo la participación de las MIPYMES en plataformas digitales. 
+ 
+Líneas de Acción Prioritarias 
+• Promoción de la oferta digital ecuatoriana 
+• Acceso a plataformas digitales 
+• Protección al consumidor y confianza 
+• Sensibilización 
+Actividades Clave 
+• Desarrollar un Catálogo Nacional de Servicios Digitales Exportables que 
+visibilice la oferta ecuatoriana en mercados internacionales. 
+(PROECUADOR) 
+• Implementar campañas nacionales de comunicación, capacitación y 
+promoción que aceleren la adopción del comercio electrónico a nivel 
+nacional. 
+• Promover campañas de divulgación que fortalezcan el conocimiento del 
+consumidor sobre las vías de reclamo en el comercio digital. (MPCEI )
+
+
+================================================================================
+PÁGINA 17
+================================================================================
+
+Página | 17 
+ 
+ 
+3. DIM ENSI ÓN 3: GOBERNANZA DIG ITAL 
+Objetivo Estratégico : Establecer un marco de gobernanza sólido, articulado y 
+basado en evidencia que garantice la coordinación interinstitucional y la 
+participación multisectorial en el comercio digital. 
+ 
+Líneas de Acción Prioritarias 
+• Comité Nacional de Comercio Digital 
+• Observatorio Nacional de Transformación D igital 
+• Actualización normativa y regulatoria 
+ 
+Actividades Clave 
+• Conformar comités temporales temáticos para la ejecución, seguimiento 
+y evaluación de la Estrategia Nacional de Comercio Digital. 
+• Implementar un Observatorio de Datos Abiertos sobre Transformación 
+Digital que incorpore un apartado de Comercio Digital 
+• Impulsar la generación, modernización y armonización normativa que 
+potencie el desarrollo del comercio digital en el país. 
+ 
+4. DIMENSION 4: INNOVACIÓN, PRODUCTIVIDAD Y DATOS 
+Objetivo Estratégico : Potenciar la innovación tecnológica, el uso estratégico de 
+datos y la adopción de IA productiva para elevar la productividad y 
+competitividad del comercio digital, especialmente en MIPYMES. 
+ 
+Líneas de Acción Prioritarias 
+• Uso de tecnologías emergentes e IA productiva 
+• Analítica de datos y toma de decisiones basada en evidencia 
+• Sellos digitales y buenas prácticas 
+ 
+Actividades Clave 
+• Desarrollar un programa de reconocimiento público (sellos digitales) que 
+destaque a las empresas que adopten buenas prácticas de digitalización 
+en sus procesos. 
+• Incentivar la adopción y uso de tecnologías emergentes que impulsen la 
+productividad y competitividad. 
+ 
+5. DIMENSIÓN 5: LOGÍSTICA Y COMERCIO TRANSFRONTERIZO 
+Objetivo Estratégico : Optimizar la infraestructura logística, los procesos 
+aduaneros y la interoperabilidad de sistemas para reducir costos y facilitar el 
+comercio digital transfronterizo.
+
+
+================================================================================
+PÁGINA 18
+================================================================================
+
+Página | 18 
+ 
+ 
+Líneas de Acción Prioritarias 
+• Modernización logística y postal 
+• Facilitación aduanera digital 
+• Exportaciones digitales y Exporta Fácil 
+Actividades Clave 
+• Actualizar y modernizar el código postal ecuatoriano. 
+• Implementar mejoras en los procesos y sistemas aduaneros para 
+optimizar la eficiencia logística y reducir tiempos de comercio 
+transfronterizo. (SENAE) 
+• Fortalecer los servicios postales del Ecuador para ampliar y optimizar el 
+uso del programa Exporta Fácil y otras iniciativas de apoyo a 
+exportaciones digitales . (Servicios Postales EC) 
+ 
+Observaciones: 
+- Versión final de la estrategia ajustada con los comentarios de la Coordinación 
+General Jurídica de MINTEL 
+- Sensib ilización de l as líneas de acción con las contrapartes de las institucio nes 
+responsables de implementa ción (BCE, MPCEIP, SENAE, SERVICIOS POS TALES 
+EC, PROECUADOR, MINEDEC ) 
+- Diseño de l Informe técnico justificativo y el Acuerdo Interministerial 
+- Evento de lanzamiento de la Estrategia (29 de enero 2026) “PACTO NACIONAL 
+POR EL COM ERCIO DIGITAL DE EC UADOR ” 
+ 
+En el marco de este p royecto , se contempla en una línea de acción entorno a l 
+mecanismo de interoperabilidad para transferencias electrónicas de dinero en tiempo 
+real, en el cual MINTEL a trav és de la D FEDSSI en conjunto con el BCE realizará un 
+proceso de adopción segura e interoperable de medios de pago digitales en el comercio 
+digital, mediante educación financiera aplicada, articulación multisectorial y 
+fortalecimiento de la confianza del usuario. 
+ 
+PROYECTO 3 
+Emprendedor Digital (Inclusión, Culturización, Género y 
+T erritorio) 
+ 
+Proyecto enfocado en reducir brechas de acceso y uso de tecnologías digitales mediante 
+programas específicos para emprendedores, mujeres, zonas rurales, artesanos y 
+comunidades indígenas. Promueve el emprendimiento digital, la formalización y el
+
+
+================================================================================
+PÁGINA 19
+================================================================================
+
+Página | 19 
+ 
+acceso a mercados mediante modelos adaptados a contextos territoriales y 
+socioculturales. 
+Alcance 
+El proyecto contempla la implementación de programas focalizados de inclusión y 
+fortalecimiento de capacidades digitales, tales como Digitalízate Rural, orientado a la 
+intervención en territorios rurales y periurbanos con enfoque intercultural, y Mujeres E -
+mpoderadas, enfocado en la reducción de brechas de género en el acceso y uso 
+productivo de tecnologías digitales. Asimismo, comprende la generación de espacios 
+permanentes de sensibilización y cultura digital en el marco de la economía digital, a 
+través d e iniciativas como el ciclo de webinarios Emprendedor Digital, TechTalks y el 
+Podcast E -mpoderados TIC. El alcance del proyecto incluye también acciones específicas 
+de ciberseguridad para MIPYMES, orientadas a la prevención de riesgos en entornos 
+digitales , la promoción de espacios de comercialización digital mediante marketplaces, 
+y la creación de mecanismos de acompañamiento técnico y empresarial, a través de 
+Centros de Desarrollo Empresarial Digital (SBDC), que brinden apoyo continuo en 
+procesos de digit alización, formalización y acceso a mercados. 
+Objetivo: Impulsar emprendimientos digitales y la adopción tecnológica en MIPYMES , 
+emprendedores, artesanos y EPS con enfoque territorial y de género. 
+ 
+Iniciativas clave 
+Digitalízate Rural (Intervención en territorios rurales y periurbanos con enfoque 
+intercultural) 
+Enfoque: Artesanos, agricultores y comunidades indígenas 
+El programa Digitalízate Rural es una iniciativa de inclusión digital productiva orientada 
+a artesanos, agricultores, cooperativas y comunidades indígenas de zonas rurales y 
+periurbanas, con el objetivo de incorporar progresivamente herramientas digitales en 
+sus procesos productivos, comerciales y de comercialización. 
+La iniciativa promueve la adopción de comercio electrónico, marketing digital, 
+trazabilidad y facturación electrónica simplificada, respetando la identidad cultural, el 
+territorio y los saberes ancestrales, mediante un modelo express, práctico y 
+contextual izado, que utiliza herramientas digitales gratuitas y soluciones basadas en 
+inteligencia artificial adaptadas a los sectores productivos locales en línea con l os 
+proyectos de Ruta de Transformación Digital y las Brigadas Tech. 
+Objetivo: Promover la inclusión digital de artesanos, agricultores y cooperativas rurales 
+mediante la adopción de herramientas de comercio electrónico y marketing digital,
+
+
+================================================================================
+PÁGINA 20
+================================================================================
+
+Página | 20 
+ 
+generando trazabilidad en las ventas, fortaleciendo su autonomía productiva y 
+ampliando su acceso a mercados locales, nacionales e internacionales. 
+Alcance 
+La iniciativa contempla la ejecución de pilotos territoriales en provincias priorizadas 
+(Tungurahua, Imbabura , Otavalo , Napo -Past aza), a través de procesos de digitalización , 
+acompañamiento y seguimiento dirigidos a mipymes , emprendedores rurales, 
+artesanos registrados y organizaciones comunitarias , incluyendo la articulación con 
+GADs, cámaras locales, ministerios sectoriales, academia y organizaciones comunitarias, 
+garantizando sostenibilidad y escalabilidad del modelo. 
+ 
+Actividades principales 
+• Diagnóstico territorial y selección de provincias y comunidades prioritarias. 
+• Articulación con aliados estratégicos 
+• Implementación de pilotos en provincias con enfoque intercultural. 
+• Ejecución de un modelo express de digitalización , presencial y/o virtual. 
+• Acompañamiento post y seguimiento a adopción de herramientas TIC. 
+MÓDULOS TEMAS HERRAMIENTAS IA 
+1. Introducción al 
+comercio 
+electrónico - Qué es el comercio electrónico y cómo 
+puede beneficiar a los emprendimientos 
+rurales. 
+- Tipos de comercio digital: local, nacional 
+e internacional. 
+- Cómo vender desde comunidades 
+rurales usando internet y redes sociales. 
+- Cómo la digitalización fortalece la 
+independencia económica de mujeres y 
+comunidades. 
+- Brecha digital de género y cómo 
+reducirla. 
+- Ejemplos de artesanos que venden en 
+línea - casos de éxito rurales. • ChatGPT / Gemini: para 
+obtener ideas de productos y 
+nombres de tiendas. 
+• Canva Magic Write: para 
+redactar descripciones y 
+biografías de tiendas. 
+• WIX, Mixo.io (IA gratuita 
+limitada): para crear una 
+página simple de venta. 
+2. Fotografía de 
+productos - Cómo tomar fotos atractivas con el 
+celular. 
+- Luz natural, fondo, ángulos y 
+presentación del producto artesanal. 
+- Cómo contar historias a través de las 
+imágenes (identidad cultural, territorio, 
+origen). 
+- Inclusión de mujeres artesanas en la 
+narrativa visual. • Remove.bg: eliminar fondos. 
+• Canva IA / Magic Edit: 
+mejorar fotos y crear 
+composiciones. 
+• Pixlr E o Photopea: editores 
+gratuitos para retocar 
+imágenes. 
+• Leonardo.ai / Bing Image 
+Creator: generar fondos o 
+ambientes culturales con IA. 
+3. Marketing digital 
+básico - Qué es el marketing digital y cómo 
+aplicarlo en comunidades rurales. 
+- Crear una marca con identidad cultural y 
+de género. • Canva / Meta AI: para 
+generar publicaciones e 
+historias automáticas. 
+• Copy.ai / Simplified: crear 
+mensajes y textos atractivos.
+
+
+================================================================================
+PÁGINA 21
+================================================================================
+
+Página | 21 
+ 
+MÓDULOS TEMAS HERRAMIENTAS IA 
+- Publicar contenido en redes sociales 
+(Facebook, Instagram, WhatsApp 
+Business). 
+- Contar historias reales: artesanía, 
+tradiciones, territorio y sostenibilidad. 
+- Cómo medir resultados de manera 
+sencilla. • ChatGPT: generar ideas de 
+hashtags y descripciones. 
+• CapCut / Pika Labs: crear 
+videos cortos con IA. 
+4. Plataformas de 
+venta - Cómo registrarse y vender en 
+plataformas nacionales e 
+internacionales (Facebook Marketplace, 
+Etsy, Mercado Libre, WhatsApp 
+Business). 
+- Métodos de cobro y envío desde zonas 
+rurales. 
+- Cómo usar catálogos digitales. 
+- Enlace con ferias y turismo local. • Shopify Starter (IA 
+integrada): para crear tienda 
+en línea con texto 
+automático. 
+• Google My Business: 
+visibilidad en mapas. 
+• ChatGPT / Canva Docs: crear 
+fichas de producto y 
+catálogos. 
+• Durable.co (IA para sitios 
+web): genera páginas web 
+automáticamente. 
+5. Seguridad digital - Cómo proteger cuentas, contraseñas y 
+datos personales. 
+- Identificar fraudes o estafas digitales. 
+- Buenas prácticas en redes sociales y 
+plataformas de venta. 
+- Ciberseguridad con enfoque de género 
+(prevención de violencia digital). • Password Generator / 
+Bitwarden: gestión segura de 
+contraseñas. 
+• Google Seguridad / Phishing 
+Quiz: ejercicios prácticos. 
+• Canva IA: infografías 
+educativas. 
+• ChatGPT: simulaciones de 
+mensajes falsos para 
+aprender a detectarlos. 
+6. Trazabilidad y 
+facturación 
+electrónica - Qué es la trazabilidad: registrar origen 
+del producto artesanal o agropecuario. 
+- Identidad y valor agregado del producto 
+rural (hecho a mano, sostenible, local). 
+- Cómo emitir facturas electrónicas con 
+apoyo institucional o simplificado. 
+- Introducción a códigos QR y catálogos 
+digitales. • Google Sheets + ChatGPT : 
+automatizar registros de 
+producción. 
+• QR Code Generator IA: crear 
+códigos QR gratuitos. 
+• Canva IA – diseñar etiquetas 
+y catálogos trazables. 
+• Notion AI / Excel Copilot – 
+para controlar inventarios. 
+ 
+Mujeres E -mpoderadas 
+Enfoque de género y empoderamiento económico digital 
+El programa Mujeres E -mpoderadas es una iniciativa orientada a reducir la brecha de 
+género en el acceso, uso y aprovechamiento productivo de las tecnologías digitales, 
+empoderando a mujeres emprendedoras y productoras rurales mediante herramientas 
+de comercio electrónico, marketing digit al y liderazgo digital. 
+El programa integra un enfoque de empoderamiento económico, autonomía financiera 
+y liderazgo digital, incorporando contenidos específicos sobre ciberseguridad con
+
+
+================================================================================
+PÁGINA 22
+================================================================================
+
+Página | 22 
+ 
+enfoque de género, redes de apoyo y visibilidad digital, con el fin de fortalecer la 
+participación de las mujeres en la economía digital y en los mercados electrónicos. 
+Objetivo: Reducir la brecha de género en el acceso y uso de herramientas digitales, 
+empoderando a mujeres emprendedoras y productoras rurales para incrementar sus 
+oportunidades de comercialización, formalización y autonomía económica a través del 
+comercio electrónic o. 
+Alcance 
+La iniciativa se implementa mediante pilotos territoriales en provincias priorizadas en 
+torno a la mayor concentración de mujeres emprendedor as en estos sectores 
+(Pichincha, Guayas, Cuenca, Tungurahua , Napo , Pastaza, Motona Sanatiago y Orellana ), 
+alcanzando a mujeres emprendedoras, artesanas y productoras rurales, a través de 
+procesos de capacitación práctica, mentoría y acompañamiento continuo. El alcance 
+incluye la creación de redes de apoyo entre mujeres, la articulación con organizaciones 
+sociales y la vinculación con empresarias digitales consolidadas que actúan como 
+mentoras. 
+Actividades Principales 
+• Articulación con aliados estratégicos 
+• Implementación de pilotos en provincias con enfoque de género . 
+• Ejecución de un modelo express de digitalización , presencial y/o virtual. 
+• Creación de la Red E-mpoderadas , como espacio de apoyo y acompañamiento 
+entre mujeres. 
+• Programas de mentoría con empresarias digitales consolidadas. 
+ 
+MÓDULOS TEMAS HERRAMIENTAS IA 
+7. Introducción al 
+comercio 
+electrónico - Qué es el comercio electrónico , 
+como herramienta de 
+independencia económica 
+femenina. 
+- Tipos de comercio digital: local, 
+nacional e internacional. 
+- Cómo vender desde 
+comunidades rurales usando 
+internet y redes sociales. 
+- Cómo la digitalización fortalece la 
+independencia económica de 
+mujeres y comunidades. 
+- Brecha digital de género y cómo 
+reducirla. 
+- Casos de éxito de mujeres rurales 
+y artesanas. • ChatGPT / Gemini: para 
+obtener ideas de productos y 
+nombres de tiendas. 
+• Canva Magic Write: para 
+redactar descripciones y 
+biografías de tiendas. 
+• WIX, Mixo.io (IA gratuita 
+limitada): para crear una 
+página simple de venta. 
+8. Fotografía de 
+productos - Cómo tomar fotos atractivas con 
+el celular. • Remove.bg: eliminar fondos.
+
+
+================================================================================
+PÁGINA 23
+================================================================================
+
+Página | 23 
+ 
+MÓDULOS TEMAS HERRAMIENTAS IA 
+- Luz natural, fondo, ángulos y 
+presentación del producto 
+artesanal. 
+- Cómo contar historias a través de 
+las imágenes (identidad cultural , 
+rol femenino productiv o) 
+- Inclusión de mujeres 
+emprendedoras en la narrativa 
+visual. • Canva IA / Magic Edit: 
+mejorar fotos y crear 
+composiciones. 
+• Pixlr E o Photopea: editores 
+gratuitos para retocar 
+imágenes. 
+• Leonardo.ai / Bing Image 
+Creator: generar fondos o 
+ambientes culturales con IA. 
+9. Marketing digital 
+básico - Marketing con propósito: contar 
+historias reales de mujeres. 
+- Construcción de marca personal 
+femenina. 
+- Publicar contenido en redes 
+sociales (Facebook, Instagram, 
+WhatsApp Business). Uso de 
+redes como herramienta de 
+visibilidad, no de riesgo 
+- Cómo medir resultados de 
+manera sencilla. 
+- Comunicación segura y asertiva. 
+- Manejo de comentarios, críticas 
+y exposición pública. • Canva / Meta AI: para 
+generar publicaciones e 
+historias automáticas. 
+• Copy.ai / Simplified: crear 
+mensajes y textos atractivos. 
+• ChatGPT: generar ideas de 
+hashtags y descripciones. 
+• CapCut / Pika Labs: crear 
+videos cortos con IA. 
+10. Plataformas de 
+venta - Cómo registrarse y vender en 
+plataformas nacionales e 
+internacionales (Facebook 
+Marketplace, Etsy, Mercado 
+Libre, WhatsApp Business). 
+- Métodos de cobro y envío 
+- Cómo usar catálogos digitales. 
+- Enlace con ferias y turismo local. 
+- Control directo de ingresos. 
+- Articulación con turismo 
+comunitario liderado por 
+mujeres. • Shopify Starter (IA 
+integrada): para crear tienda 
+en línea con texto 
+automático. 
+• Google My Business: 
+visibilidad en mapas. 
+• ChatGPT / Canva Docs: crear 
+fichas de producto y 
+catálogos. 
+• Durable.co (IA para sitios 
+web): genera páginas web 
+automáticamente. 
+11. Seguridad digital - Cómo proteger cuentas, 
+contraseñas y datos personales. 
+- Identificar fraudes o estafas 
+digitales. 
+- Buenas prácticas en redes 
+sociales y plataformas de venta. 
+- Ciberseguridad con enfoque de 
+género (prevención de violencia 
+digital). • Password Generator / 
+Bitwarden: gestión segura de 
+contraseñas. 
+• Google Seguridad / Phishing 
+Quiz: ejercicios prácticos. 
+• Canva IA: infografías 
+educativas. 
+• ChatGPT: simulaciones de 
+mensajes falsos para 
+aprender a detectarlos. 
+12. Trazabilidad y 
+facturación 
+electrónica - Qué es la trazabilidad: registrar 
+origen del producto artesanal o 
+agropecuario. 
+- Identidad y valor agregado del 
+producto rural (hecho a mano, 
+sostenible, local). 
+- Cómo emitir facturas electrónicas 
+con apoyo institucional o 
+simplificado. • Google Sheets + ChatGPT : 
+automatizar registros de 
+producción. 
+• QR Code Generator IA: crear 
+códigos QR gratuitos. 
+• Canva IA – diseñar etiquetas 
+y catálogos trazables. 
+• Notion AI / Excel Copilot – 
+para controlar inventarios.
+
+
+================================================================================
+PÁGINA 24
+================================================================================
+
+Página | 24 
+ 
+MÓDULOS TEMAS HERRAMIENTAS IA 
+- Introducción a códigos QR y 
+catálogos digitales. 
+13. Liderazgo y 
+empoderamiento 
+digital (solo para 
+Conectadas) - Enfoque de género y liderazgo en 
+la era digital. 
+- Historias inspiradoras de mujeres 
+rurales y artesanas. 
+- Cómo usar la tecnología para 
+fortalecer redes de apoyo y 
+negocios. 
+- Comunicación asertiva y 
+visibilidad digital con propósito. 
+- Autoconfianza y autoestima 
+digital. 
+- Construcción de redes de apoyo 
+E-mpoderadas • HeyGen / Synthesia (IA de 
+video gratuita limitada) – 
+crear videos motivacionales 
+con voz o avatar. 
+• ChatGPT – para escribir 
+discursos y mensajes 
+inspiradores. 
+• Canva IA – para crear posters 
+y campañas de 
+empoderamiento. 
+• Lumen5 – generar videos a 
+partir de texto. 
+ 
+Red E-mpoderadas 
+La Red E-mpoderadas / Mujeres Emprendedoras Digitales del Ecuador es un mecanismo 
+nacional de articulación, acompañamiento y fortalecimiento de capacidades orientado 
+a mujeres emprendedoras, productoras y artesanas, principalmente de zonas rurales y 
+periurbanas, que participan en procesos de transformación digital y comercio 
+electrónico. La Red tiene como propósito reducir las brechas de género en el acceso, uso 
+y aprovechamiento productivo de las tecnologías digitales, promoviendo la autonomía 
+económica femenina y la participa ción activa de las mujeres en la economía digital del 
+país. 
+La Red opera bajo un modelo híbrido territorial -digital, conformado por círculos locales 
+de apoyo y una plataforma de interacción virtual, que facilitan el intercambio de 
+conocimientos, la mentoría entre pares, el acompañamiento técnico continuo y la 
+generación de redes comerciales. A través de esta est ructura, la Red fortalece la 
+sostenibilidad de los procesos de capacitación, previene el abandono del uso de 
+herramientas digitales y fomenta entornos seguros de participación, incorporando un 
+enfoque de género, interculturalidad y ciberseguridad. 
+Asimismo, la Red E-mpoderadas articula a instituciones públicas, gobiernos autónomos 
+descentralizados, academia, sector privado y cooperación internacional, consolidándose 
+como un espacio de gobernanza colaborativa que impulsa la visibilidad de los 
+emprendimientos liderados por mujere s, facilita el acceso a mercados digitales, 
+incentivos y servicios de apoyo productivo, y contribuye al cumplimiento de los objetivos 
+nacionales de inclusión digital, desarrollo productivo y empoderamiento económico de 
+las mujeres. 
+Tipos de miembros 
+• Miembro Conectada (emprendedora formada)
+
+
+================================================================================
+PÁGINA 25
+================================================================================
+
+Página | 25 
+ 
+• Mentora Conectada (empresaria digital consolidada) 
+• Aliada Estratégica (empresa, universidad, ONG) 
+Círculos Empoderadas 
+Los Círculos E-mpoderadas constituyen la base territorial de la Red y se conforman como 
+grupos locales de mujeres emprendedoras , organizados a nivel comunitario, parroquial 
+o cantonal. Cada círculo cuenta con una facilitadora local, responsable de dinamizar el 
+proceso y promover la participación activa de las integrantes, y desarrolla reuniones 
+mensuales presenciales o híbridas or ientadas al intercambio de experiencias, la 
+resolución práctica de desafíos digitales y el fortalecimiento del apoyo mutuo y la 
+autoconfianza. La implementación de los círculos se iniciará en 2026 mediante 
+provincias piloto priorizadas (Tungurahua, Imbabur a y Napo), con el apoyo de los 
+Gobiernos Autónomos Descentralizados parroquiales y cantonales, así como de aliados 
+locales, con el objetivo de asegurar arraigo territorial, sostenibilidad y escalabilidad del 
+modelo. 
+El rol de los círculos es facilitar el aprendizaje colaborativo, impulsar estrategias de 
+ventas cruzadas, apoyar la adopción continua de herramientas digitales y prevenir el 
+abandono posterior a los procesos de capacitación. 
+Observaciones: 
+En funci ón de la RED 
+• Crear la red ya sea por Resolución ministerial (MINTEL o ente rector) o como 
+componente formal del Programa E-mpoderadas 
+• Consolidar la legitimidad co n un instrumento que contenga: Objetivo de la Re , 
+Quiénes pueden ser parte , Beneficios , Gobernanza básica . 
+ 
+ 
+Ciberseguridad para mipymes 
+La iniciativa Ciberseguridad para MIPYMES tiene como finalidad fortalecer las 
+capacidades de protección digital de micro, pequeñas y medianas empresas, 
+emprendimientos y productores que participan en el ecosistema de comercio digital, 
+mediante acciones de formación práctica, sensibilización y prevención de riesgos. 
+La iniciativa responde al incremento de fraudes, estafas y vulnerabilidades digitales que 
+afectan de manera desproporcionada a MIPYMES y emprendimientos con menor 
+madurez tecnológica, y se implementa con un enfoque preventivo, accesible y adaptado 
+a contex tos productivos locales. 
+Componentes de la iniciativa 
+• Curso Asincrónico de Ciberseguridad para mipymes y emprendedores
+
+
+================================================================================
+PÁGINA 26
+================================================================================
+
+Página | 26 
+ 
+Curso virtual autogestionado, diseñado para que las MIPYMES y emprendedores 
+adquieran conocimientos básicos y prácticos en ciberseguridad, protección de datos, 
+uso seguro de plataformas digitales y prevención de fraudes, con contenidos accesibles, 
+lenguaje sencillo y casos reales del entorno ecuatoriano. 
+Objetivo: Garantizar que las MIPYMES cuenten con competencias mínimas para operar 
+de manera segura en entornos digitales y de comercio electrónico. 
+Alcance: 
+Disponible a nivel nacional, con acceso gratuito , estilo Moodle adaptable a dispositivos 
+móviles y con certificación de participación. 
+• Guía Práctica de Ciberseguridad para mipymes y emprendedores 
+Documento práctico y didáctico que recoge buenas prácticas, listas de verificación y 
+protocolos básicos de seguridad digital, orientado a MIPYMES y emprendedores que 
+utilizan redes sociales, marketplaces, plataformas de pago y canales digitales para 
+comerc ializar sus productos y servicios. 
+Objetivo: Proporcionar una herramienta de consulta rápida que permita a las MIPYMES 
+identificar riesgos y aplicar medidas de protección digital de forma inmediata. 
+Alcance: 
+Difusión digital y física a través las redes de mintel y aliados estratégicos . 
+• Masterclass en Ciberseguridad y Comercio Digital 
+Espacios virtuales o presenciales de formación avanzada, dirigidos a mipymes y 
+emprendedores , enfocados en riesgos emergentes, protección de transacciones, 
+seguridad en pagos digitales y gestión de incidentes . 
+Objetivo: Profundizar conocimientos y generar conciencia estratégica sobre la 
+importancia de la ciberseguridad como factor de confianza y competitividad en el 
+comercio digital. 
+Alcance: 
+Cobertura nacional, con ediciones periódicas y articulación con aliados estratégicos . 
+ 
+Marketplace Nacional (productos y servicios) * 
+El Marketplace Nacional de Productos y Servicios es una iniciativa orientada a visibilizar, 
+promocionar y comercializar la oferta productiva y de servicios digitales del Ecuador, 
+especialmente de MIPYMES, artesanos, emprendimientos y proveedores de servicios 
+digitales. El marketplace funciona como una vitrina nacional, articulada con la Estrategia
+
+
+================================================================================
+PÁGINA 27
+================================================================================
+
+Página | 27 
+ 
+Nacional de Comercio Digital 2030 , la Ruta de Transformación digital y , que facilita el 
+acceso a mercados, fortalece la confianza del consumidor y promueve la compra de 
+productos y servicios nacionales. 
+Objetivo : Incrementar la participación de MIPYMES y emprendimientos ecuatorianos en 
+el comercio digital, facilitando su acceso a canales de comercialización confiables y 
+visibles a nivel nacional e internacional. 
+Alcance 
+El marketplace integra productos físicos, artesanales y agroproductivos, así como 
+servicios digitales, y se articula con plataformas de pago, logística y promoción 
+institucional. Opera bajo criterios de calidad, trazabilidad y confianza digital, priorizand o 
+emprendimientos formalizados y participantes de programas públicos de digitalización. 
+Observaciones: 
+- Actualmente se cuenta con un desarrollo we b y app ( IOS y Android ) 
+denominada Kallari que se plantea se potencie a largo plazo contando con 
+pasarela de pagos y espa cio de servidor que soporte el tráfico transaccional. 
+ 
+Vouchers /KITS Digitales + Market Linkages para emprendedores, MIPyMES e 
+Indistrias * 
+Iniciativa de subsidios directos (vouchers digitales) combinado con acompañamiento 
+técnico y vinculación a mercados, apalancado en la repotenciación del Portal de 
+Software Ecuatoriano y portales de soluciones tecnológicas manejadas por MINTEL 
+como plataforma nacional de referencia para proveedores de servicios digitales. 
+Este subpro yecto busca facilitar la adopción de soluciones tecnológicas por parte de las 
+MIPYMES, priorizando la oferta nacional, garantizando estándares de calidad, 
+trazabilidad y visibilidad, y fortaleciendo el ecosistema local de tecnología. 
+Objetivo : Impulsar la digitalización y competitividad de las MIPYMES y emprendedores 
+mediante la reducción de la fricción de entrada al uso de herramientas digitales clave, 
+articulando los vouchers con un catálogo nacional de proveedores certificados, 
+promoviendo la adopción de soluciones tecnológicas ecuatorianas y generando impacto 
+direc to en ventas, formalización y empleo. 
+ 
+Público objetivo 
+Micro y pequeñas empresas de sectores estratégicos (agroalimentario, pesca, 
+manufactura ligera, turismo y servicios), priorizando territorios con menor adopción TIC, 
+así como proveedores nacionales e internaciona les de software y servicios digitales.
+
+
+================================================================================
+PÁGINA 28
+================================================================================
+
+Página | 28 
+ 
+Componentes 
+• Vouchers digitales acotados para la adquisición de soluciones digitales 
+productivas. 
+• Portal de Software Ecuatoriano repotenciado y catalogo de soluciones digitales 
+como catálogo oficial de proveedores elegibles para los vouchers. 
+• Integración vouchers -portal: los vouchers solo podrán utilizarse con proveedores 
+registrados y certificados en el portal. 
+• Paquetes sectoriales estandarizados con soluciones digitales, checklist 
+regulatorio y aliados logísticos. 
+• Actualización permanente y visibilidad del catálogo, con fichas técnicas, casos de 
+uso y segmentación por sector y nivel de madurez digital. 
+• Incentivos para proveedores: prioridad de visibilidad en el portal, participación 
+en programas de fortalecimiento técnico, reconocimientos públicos , prom oción 
+y difusión de casos de éxito. 
+• Matchmaking automático MIPYME +proveedor, según nivel digital, sector 
+productivo y necesidades específicas. 
+• Acompañamiento técnico mediante mentores locales (presencial y virtual) para 
+implementación y medición de resultados. 
+• Desembolso por hitos: instalación de la solución y uso comprobado . 
+ 
+Comercio Digital Internacional (Cross ‑Border) * 
+Iniciativa orientad a a habilitar y escalar la participación de MIPYMES ecuatorianas en 
+mercados internacionales mediante comercio digital, integrando capacitación, 
+onboarding técnico, logística, pagos, regulación y promoción conjunta , con apoyo de 
+PROECUADOR y MPCE IP. 
+Objetivo : Generar ventas digitales internacionales sostenidas para MIPYMES con 
+productos o servicios digitales con oferta exportable, reduciendo costos de entrada y 
+riesgos operativos. 
+Componentes clave 
+• Identificación de sectores y productos con potencial exportador digital. 
+• Catalogo Naciona l de Servicios Digitale s 
+• Formación en compliance internacional, etiquetado, pricing y atención al cliente. 
+• Integración a marketplaces internacionales y portales certificados. 
+• Soluciones de fulfillment y logística con tarifas preferenciales 
+• Integración de pagos multimoneda y gestión de divisas. 
+• Campañas conjuntas y sello “Ecuador Digital Exporta”. 
+• Monitoreo, observatorio y escalamiento.
+
+
+================================================================================
+PÁGINA 29
+================================================================================
+
+Página | 29 
+ 
+Observaciones: 
+- El proyecto de Voucher/KIT Digital y Cross Border * se ha planificado 
+presentarlo en el marco de proyectos de gasto corriente por fases del 1% de 
+contribuciones. 
+ 
+ 
+Hub de Desarrollo Empresarial Digital * 
+(centros de desarrollo empresarial digital) 
+El Hub de Desarrollo Empresarial Digital es un espacio de acompañamiento técnico, 
+formación continua y articulación empresarial, orientado a fortalecer las capacidades 
+digitales, comerciales y de innovación de MIPYMES y emprendedores, mediante 
+servicios es pecializados de asesoría, mentoría y acceso a herramientas tecnológicas. El 
+Hub actúa como un centro articulador entre sector público, academia, sector privado y 
+cooperación internacional. 
+Objetivo : Acompañar de manera integral los procesos de digitalización y crecimiento de 
+las mipymes y emprendedores , facilitando su inserción sostenible en la economía y el 
+comercio digital. 
+Alcance 
+El Hub opera bajo un modelo híbrido (presencial y virtual), con nodos territoriales y una 
+plataforma digital, ofreciendo servicios como diagnóstico digital, asesoría personalizada, 
+mentoría, vinculación a mercados, acceso a financiamiento y articulación co n programas 
+nacionales e internacionales de apoyo empresarial. 
+Servicios y ofertas 
+• Espacio y prototipado 
+o Coworking y espacios de trabajo compartido. 
+o Espacios de marketing digital ( fotografía , video , locución ) 
+o Laboratorios de prototipado y equipos de hardware, fab labs, acceso a 
+herramientas de fabricación digital (CNC, 3D printers, láser, etc.). 
+• Programas de incubación/aceleración 
+o Programas de 3 -6 meses para validar ideas, con mentoría, talleres y 
+acceso a red de inversores. 
+o Ruta de T ransformación Digital 
+o Puentes a pruebas de mercado y pilotos con empresas grandes. 
+• Mentoría y red de contactos
+
+
+================================================================================
+PÁGINA 30
+================================================================================
+
+Página | 30 
+ 
+o Mentores experimentados en estrategia, producto, ventas B2B, y 
+internacionalización. 
+o Eventos de networking, pitch sessions, y matchmaking con corporaciones 
+y fondos. 
+• Acceso a financiamiento 
+o Fondos públicos/semipúblicos para I+D y desarrollo tecnológico. 
+o Co-inversión y fondos de venture capital locales, a veces canalizados a 
+través de programas de cooperaci ón. 
+o Subsidios para I+D, créditos fiscales y subvenciones para investigación. 
+• Servicios empresariales 
+o Soporte legal/contratación, propiedad intelectual, impuestos y 
+estructuras corporativas para startups. 
+o Programas de internacionalización y entradas a mercados extranjeros. 
+• Formación y desarrollo de talento 
+o Capacitaciones técnicas (IA/ML, software, bio, hardware, 
+ciberseguridad). 
+o Programas de talento y pasantías en colaboración con universidades. 
+Gobernanza 
+• Gobernanza híbrida público -privada : Un organismo gubernamental o 
+semigubernamental coordina políticas y financiamiento, mientras que una 
+asociación de universidades, incubadoras y empresas gestiona programas 
+operativos. 
+• Red de aliados : Colaboraciones con universidades, laboratorios de I+D, cámaras 
+de comercio y grandes empresas para pruebas piloto y acceso a clientes. 
+Observaciones: 
+- El proyecto de Hub de Desarrollo Empresarial Digital* se ha planificado 
+presentarlo en e l marco de proyectos de gasto corriente po r fase s de l 1% de 
+contribuciones. 
+*iniciativas a largo plazo
+
+
+================================================================================
+PÁGINA 31
+================================================================================
+
+Página | 31 
+ 
+ 
+PROYECTO 4 
+Economía Digital 
+Proyecto estratégico orientado al diseño, actualización y articulación de políticas, 
+estrategias y servicios digitales que habiliten el crecimiento de la economía digital como 
+eje transversal del desarrollo productivo y social del país. 
+El proyecto se concibe como un proceso estructural, transversal y fundacional , que 
+permitirá al Estado ecuatoriano contar con una arquitectura clara de política pública 
+digital al 2030, alineada a estándares internacionales y adaptada a las capacidades 
+institucionales, productivas y territoriales del país. 
+Alcance del Proyecto 
+El proyecto comprende la formulación, articulación y actualización integral de los 
+principales instrumentos estratégicos nacionales en materia digital, incluyendo: 
+ 
+- La construcción de la Estrategia Nacional de Economía Digital y Servicios de la 
+Información 2030. 
+- La actualización y alineación de la Agenda Digital Integral, incorporando el 
+enfoque de economía digital 
+- La alineación del eje de economía digital en los inst rumentos de política pública 
+generados desde Mintel y aliados . 
+El alcance incluye el diagnóstico del ecosistema digital, la revisión de instrumentos 
+vigentes, la identificación de brechas normativas y de implementación, la articulación 
+interinstitucional y multisectorial, y la definición de una hoja de ruta integrada al 2030. 
+El proyecto culmina con la entrega de un paquete estratégico nacional, conformado por 
+documentos oficiales, lineamientos transversales, indicadores de seguimiento y un 
+modelo de gobernanza, sin contemplar la ejecución operativa de los programas 
+derivados. 
+ 
+Estrategia Nacional de Economía Digital y Servicios de la Información 2030 
+La Construcción de la Estrategia Nacional de Economía Digital y Servicios de la 
+Información 2030 constituye un proceso de formulación de política pública de carácter 
+estructural y fundacional, orientado a definir, por primera vez en el Ecuador, una visión 
+país, un marco estratégico y una hoja de ruta integral para el desarrollo de la economía 
+digital y de los servicios basados en tecnologías de la información.
+
+
+================================================================================
+PÁGINA 32
+================================================================================
+
+Página | 32 
+ 
+La Estrategia establecerá los principios, objetivos, ejes estratégicos, mecanismos de 
+gobernanza, instrumentos normativos y lineamientos de implementación que 
+permitirán al Estado ecuatoriano impulsar la digitalización productiva, la innovación, la 
+competi tividad empresarial, la generación de empleo digital y el desarrollo de servicios 
+digitales, en coherencia con las políticas , estrategias y agendas nacionales de 
+transformación digital, desarrollo productivo e inclusión social. 
+Este proceso se desarrollará bajo un enfoque multisectorial, participativo y basado en 
+evidencia, incorporando buenas prácticas internacionales y adaptándolas al contexto 
+institucional, productivo y territorial del Ecuador, con horizonte al año 2030. 
+Alcance del Proyecto 
+El proyecto abarca la formulación integral de la Estrategia Nacional de Economía Digital 
+y Servicios de la Información 2030, incluyendo el diagnóstico del ecosistema digital del 
+país, la definición de una visión estratégica de largo plazo, la identificació n de ejes 
+prioritarios de intervención y la construcción de un marco de gobernanza y seguimiento. 
+El alcance comprende la articulación interinstitucional, la participación del sector 
+privado, academia, sociedad civil y cooperación internacional, así como l a identificación 
+de brechas normativas, regulatorias y de capacidades que limitan el desarrollo de la 
+economía digital en el Ecuador. 
+Asimismo, la Estrategia definirá lineamientos para el desarrollo de servicios digitales 
+sectoriales, el fortalecimiento de la industria de servicios basados en TIC, la adopción de 
+tecnologías emergentes y la generación de condiciones habilitantes para la i nnovación 
+y la competitividad digital. El proyecto culmina con la entrega de un documento 
+estratégico oficial, acompañado de una hoja de ruta de implementación, indicadores de 
+seguimiento , sin contemplar en esta fase la ejecución operativa de los programas 
+derivados. 
+Componentes estratégicos (propuestos) 
+- Visión País y Marco Conceptual de Economía Digital 
+- Diagnóstico Integral del Ecosistema Digital Ecuatoriano 
+- Desarrollo Productivo y Servicios Digitales 
+- Innovación, Tecnologías Emergentes y Datos 
+- Talento Digital e Inclusión 
+- Marco Normativo y Condiciones Habilitantes 
+- Gobernanza, Coordinación y Participación 
+- Seguimiento, Indicadores y Hoja de Ruta 
+La Estrategia Nacional de Economía Digital y Servicios de la Información 2030 representa 
+la primera política pública integral del Ecuador orientada a estructurar, ordenar y
+
+
+================================================================================
+PÁGINA 33
+================================================================================
+
+Página | 33 
+ 
+potenciar el desarrollo de la economía digital del país, sentando las bases para la 
+competitividad, la innovación y la inclusión en la próxima década. 
+Observaciones: 
+- Para su construcción se activará un comité multisectoria l con mesas de trabajo 
+para levantar insumos y líneas de acción 
+- Se buscará cooperación internacional para su desarrollo efectivo y patrocinio 
+de refuerzo . 
+- Al finalizar su desarrollo , se realizará un evento de presentación oficial de la 
+estrategia de economía digital . 
+- Se creará un comité de seguimiento a la implementación de la estrategia con 
+miras al 2030 . 
+ 
+Actualización de la Agenda Digital Integral e instrumentos de política pública 
+Alineación de la Agenda Digital con la Estrategia de Economía Digital. 
+Incorporación de nuevos componentes: comercio digital, servicios digitales, IA 
+productiva, economía de datos. 
+ 
+PROYECTO 5 
+Open D ata Transformación Digital 
+El Proyecto Open Data para la Transformación Digital tiene como objetivo fortalecer el 
+uso estratégico de datos abiertos como motor de innovación, transparencia y desarrollo 
+productivo, facilitando el acceso, uso y reutilización de información pública de c alidad 
+para la creación de servicios digitales, soluciones tecnológicas y toma de decisiones 
+basada en evidencia. 
+El proyecto busca evolucionar el enfoque tradicional de datos hacia un modelo de Open 
+Data con valor productivo, orientado a MIPYMES, emprendedores, academia, sector 
+tecnológico y entidades públicas, promoviendo el desarrollo de soluciones digitales, 
+análisis de datos, inteligencia artificial y servicios basados en i nformación pública. 
+Alcance del Proyecto 
+El proyecto abarca la identificación, priorización, apertura, estandarización y mejora de 
+conjuntos de datos públicos estratégicos, especialmente aquellos vinculados a 
+desarrollo productivo, comercio, turismo, agricultura, innovación, servicios digitales y 
+economía del conocimiento. Incluye el fortalecimiento de capacidades institucionales 
+para la gestión de datos, la promoción de su reutilización mediante retos, laboratorios y 
+alianzas, y la articulación del ecosistema de datos abiertos a nivel nacional.
+
+
+================================================================================
+PÁGINA 34
+================================================================================
+
+Página | 34 
+ 
+El alcance contempla la definición de lineamientos de gobernanza de datos, estándares 
+de calidad, interoperabilidad y uso ético, sin incluir el desarrollo de plataformas 
+tecnológicas complejas adicionales, priorizando el aprovechamiento de infraestructuras 
+existentes. 
+Actividades Principales 
+• Identificación y priorización de datasets estratégicos para la transformación 
+digital y productiva. 
+• Definición de estándares de calidad, formatos abiertos e interoperabilidad. 
+• Acompañamiento a entidades públicas para la apertura y actualización de datos. 
+• Generación de casos de uso productivo de datos abiertos (comercio, turismo, 
+agro, servicios) . 
+• Organización de retos, hackatones y laboratorios de innovación basados en datos 
+abiertos. (en cooperación de la Dirección de Tecnologías Emergentes) 
+• Articulación con academia, sector privado y comunidades tecnológicas. 
+• Definición de indicadores de impacto y mecanismos de seguimiento del uso de 
+datos abiertos. 
+ 
+PROYECTO 6 
+Brigadas TECH – click para vender 
+El Proyecto Brigadas TECH es una iniciativa de intervención territorial orientada a 
+acercar la transformación digital a MIPYMES, emprendedores, artesanos y economía 
+popular y solidaria, mediante brigadas de asistencia técnica que brindan 
+acompañamiento prá ctico en el uso de herramientas digitales, comercio electrónico, 
+servicios digitales, ciberseguridad e inteligencia artificial básica aplicada a negocios. 
+El proyecto busca reducir las brechas de adopción digital, especialmente en territorios 
+con menor acceso a servicios especializados, mediante un enfoque práctico, cercano y 
+orientado a resultados, complementando los programas de formación virtual con 
+acomp añamiento presencial o híbrido. 
+Objetivos : MIPYMES y emprendedores con mayor capacidad de adopción digital, 
+reducción de brechas territoriales y fortalecimiento del ecosistema local de 
+transformación digital. 
+ 
+Alcance del Proyecto 
+El proyecto se implementa a nivel territorial, priorizando zonas rurales, periurbanas y 
+ciudades intermedias, en articulación con GADs, cámaras, universidades, institutos
+
+
+================================================================================
+PÁGINA 35
+================================================================================
+
+Página | 35 
+ 
+tecnológicos y sector privado. Las Brigadas TECH operan bajo un modelo modular y 
+escalable, permitiendo atender distintos niveles de madurez digital y necesidades 
+específicas de los beneficiarios. 
+ 
+ 
+Actividades Principales 
+• Diseño del modelo operativo de Brigadas TECH articulando a las 3 direcciónes de la 
+Subsecretaría. 
+• Formación de facilitadores y brigadistas digitales. 
+• Diagnóstico express de madurez digital de MIPYMES y emprendedores. 
+• Acompañamiento práctico en IA + herramientas digitales, comercio electrónico y 
+pagos digitales. 
+• Seguimiento y medición de resultados en adopción digital. 
+ 
+CLICK PARA VENDER 
+ 
+ 
+En línea con es te proyecto, la Dirección generó la iniciativa “Click para Vender” modelo 
+de intervención territorial intensiva que brinda asistencia técnica práctica, 
+acompañamiento personalizado y cierre efectivo de ventas digitales a MIPYMES, 
+emprendedores, artesanos y actores de la economía popular y solidaria en una sola 
+sesión .
+
+
+================================================================================
+PÁGINA 36
+================================================================================
+
+Página | 36 
+ 
+El proyecto combina formación aplicada, uso de herramientas digitales e inteligencia 
+artificial, y un esquema innovador exprés de venta asistida, orientado a generar 
+resultados inmediatos en visibilidad, comercialización y adopción digital. 
+La metodología de Brigadas TECH se estructura en bloques progresivos, que permiten 
+llevar al beneficiario desde la construcción de su identidad digital hasta la concreción de 
+su primera venta digital acompañada, reduciendo la brecha entre capacitación y 
+resultados reales. 
+Metodología de Intervención 
+BLOQUE 1. Tu Marca con IA 
+Objetivo: Construir una identidad digital básica y una propuesta de valor clara, apoyada 
+en herramientas de inteligencia artificial. 
+Contenidos: 
+• Introducción a IA aplicada a negocios. 
+• Investigación aumentada de mercado y clientes. 
+• Definición de propuesta de valor y mensajes clave. 
+• Identidad digital y presencia básica en línea. 
+• Principios de growth y posicionamiento inicial. 
+• Herramientas: ChatGPT, Gemini, Canva Magic Write, IA de análisis de mercado. 
+BLOQUE 2. Diseño gráfico con Canva y Fotografía de Productos 
+Objetivo: Desarrollar contenido visual atractivo que facilite la promoción y venta de 
+productos y servicios. 
+Contenidos: 
+• Diseño gráfico básico con Canva. 
+• Fotografía de productos con celular. 
+• Composición visual y narrativa del producto. 
+• Contenido visual enfocado en conversión. 
+Herramientas: Canva, Canva IA, editores gratuitos de imagen, herramientas de 
+mejora fotográfica. 
+BLOQUE 3. De la Publicación a la Venta: Estrategia y Plataformas 
+Objetivo: Activar canales digitales de venta y convertir contenido en transacciones 
+reales. 
+Contenidos: 
+• Estrategias simples de venta digital.
+
+
+================================================================================
+PÁGINA 37
+================================================================================
+
+Página | 37 
+ 
+• Uso de plataformas: sitios web, marketplaces, redes sociales. 
+• Métodos de pago digitales ( De una, pa yphone , transferencias, pasarelas). 
+• Logística básica y atención al cliente digital. 
+Herramientas: WhatsApp Business, Facebook Marketplace, Mercado Libre, Shopify 
+Starter, herramientas de pago digital. 
+ 
+BLOQUE 4. Consultoría, Venta Asistida y Cierre (Modelo 1:1:1) 
+Objetivo: Lograr al menos una venta digital real y acompañada por emprendedor 
+participante. 
+Metodología 1:1:1: 
+• 1 emprendedor: participante activo de la brigada. 
+• 1 padrino digital: mentor, empresa, aliado o voluntario del ecosistema. 
+• 1 dólar: objetivo simbólico de cierre de venta digital (validación de canal y 
+proceso). 
+Actividades: 
+• Sesiones de consultoría personalizada (1:1). 
+• Acompañamiento en tiempo real para cerrar una venta digital. 
+• Activación de redes de padrinos (sector privado, academia, emprendedores 
+consolidados). 
+• Validación práctica del proceso de venta digital. 
+• Este bloque busca romper la barrera psicológica y operativa de la primera venta 
+digital, generando confianza, evidencia de impacto y sostenibilidad en la 
+adopción tecnológica. 
+Resultados Esperados 
+• Emprendedores con identidad digital activa. 
+• Canales de venta digital habilitados y operativos. 
+• Al menos una venta digital validada por participante. 
+• Red territorial de padrinos digitales articulada. 
+• Reducción del abandono post -capacitación. 
+ 
+Nota: Cada programa se irá optimizando con el tiempo, considerando que la 
+tecnología evoluciona constantemente. La transformación digital hace que los 
+programas sean perfectibles, por lo que estarán sujetos a mejoras continuas para 
+maximizar su efectividad e im pacto.
+
+
+================================================================================
+PÁGINA 38
+================================================================================
+
+Página | 38
+
+
+================================================================================
+PÁGINA 39
+================================================================================
+
+Página | 39 
+ 
+ 
+Espacios de sensibilización y culturización en el marco de economía digital 
+Los Espacios de Sensibilización y Culturización en Economía Digital constituyen un 
+componente transversal del Programa EMPODERATECH ECUADOR, orientado a 
+construir cultura digital productiva, reducir resistencias al uso de tecnologías y acelerar 
+la adopción informada de herramientas digitales por parte de ciudadanos, 
+emprendedores, MIPYMES y actores del ecosistema productivo. 
+Estos espacios buscan ir más allá de la capacitación técnica, promoviendo cambios 
+culturales y de comportamiento relacionados con el uso responsable, seguro y 
+estratégico de la economía digital, la inteligencia artificial, el comercio electrónico y los 
+servicios digitales, mediante formatos accesibles, cercanos y de alto alcance . 
+Objetivo: Fortalecer la cultura digital productiva en el país mediante espacios de 
+divulgación, sensibilización y aprendizaje práctico que promuevan la confianza, el uso 
+responsable de tecnologías digitales y la participación activa de ciudadanos y MIPYMES 
+en la eco nomía digital. 
+Alcance 
+El proyecto se implementa a nivel nacional, con cobertura urbana y rural, a través de 
+formatos virtuales, presenciales e híbridos, priorizando territorios y sectores con menor 
+nivel de adopción digital. Los espacios de sensibilización están dirigidos a 
+emp rendedores, MIPYMES, artesanos, mujeres, jóvenes y ciudadanía en general, y se 
+articulan con universidades, GADs, cámaras, sector privado, academia y aliados 
+tecnológicos. 
+El alcance incluye la producción y difusión de contenidos digitales, la organización de 
+eventos periódicos y la activación de comunidades digitales, sin sustituir programas 
+formativos especializados, actuando como puerta de entrada a otros proyectos del 
+programa. 
+ 
+Componentes e Iniciativas 
+Ciclo de webinarios “Emprendedor Digital” 
+El Ciclo de Webinarios “Emprendedor Digital” es una iniciativa de sensibilización y 
+formación introductoria orientada a emprendedores, MIPYMES, artesanos y ciudadanía, 
+cuyo objetivo es promover la cultura de la economía digital y el comercio electrónico a 
+través de contenidos prácticos, accesibles y contextualizados a la realidad ecuatoriana. 
+Los webinarios abordan temáticas clave como comercio digital, marketing digital, pagos 
+electrónicos, educación financiera , gestión administrativa , ciberseguridad, uso de 
+plataformas digitales e inteligencia artificial aplicada a pequeños negocios.
+
+
+================================================================================
+PÁGINA 40
+================================================================================
+
+Página | 40 
+ 
+Objetivo : Fomentar la adopción progresiva de herramientas digitales y fortalecer la 
+cultura digital productiva, reduciendo barreras de entrada al comercio digital y 
+facilitando la transición de emprendimientos tradicionales hacia modelos digitales. 
+Alcance 
+El ciclo se ejecuta de manera virtual y de alcance nacional, con sesiones periódicas y 
+acceso gratuito, articulado con instituciones públicas, academia, sector privado y 
+cooperación internacional. Los contenidos quedan disponibles en repositorios digitales 
+para su reutilización y consulta perm anente 
+Formato: Virtual, con sesiones mensuales y acceso bajo demanda. 
+ 
+TechTalks 
+Los TechTalks son espacios de diálogo, intercambio y divulgación tecnológica, 
+desarrollados en formatos virtuales o presenciales, que acercan tendencias, 
+experiencias y casos de éxito en economía digital, innovación, comercio electrónico e 
+inteligencia arti ficial aplicada a negocios. Estos espacios buscan democratizar el 
+conocimiento tecnológico, conectando a expertos, emprendedores, empresas y actores 
+del ecosistema digital en un lenguaje cercano y práctico. 
+Objetivo : Sensibilizar y actualizar a los actores del ecosistema productivo sobre 
+tendencias digitales emergentes, fomentando la innovación, la adopción tecnológica y 
+la articulación entre actores públicos y privados. 
+Alcance 
+Los TechTalks se realizan a nivel nacional y territorial, en alianza con universidades, 
+cámaras , GADs y sector privado, con participación abierta y registro de asistentes para 
+seguimiento y medición de impacto. 
+Formato: Virtual, con sesiones mensuales y acceso bajo demanda. 
+ 
+Podcast “E-mpoderados TIC ” y Contenidos Digitales en Redes Sociales 
+El Podcast “E -mpoderados TIC” es una iniciativa de comunicación digital orientada a 
+visibilizar historias reales de emprendedores, mujeres líderes, artesanos y MIPYMES, así 
+como difundir contenidos educativos y motivacionales sobre economía digital, comerc io 
+electrónico y uso productivo de tecnologías. El podcast se complementa con una 
+estrategia activa de contenidos en redes sociales, que incluye reels, videos cortos, 
+cápsulas informativas, secciones tipo “Sabías que” y tips prácticos, adaptados a formatos 
+de alto consumo digital.
+
+
+================================================================================
+PÁGINA 41
+================================================================================
+
+Página | 41 
+ 
+Objetivo : Fortalecer la cultura digital, inspirar la adopción tecnológica y generar cercanía 
+con la ciudadanía, utilizando formatos accesibles, dinámicos y de alto impacto 
+comunicacional. 
+Alcance 
+El podcast y los contenidos digitales se difunden a nivel nacional a través de plataformas 
+de streaming y redes sociales institucionales, con enfoque inclusivo, territorial y de 
+género, permitiendo llegar a públicos que no acceden a procesos formativos 
+tradicionales y reforzando los mensajes clave del Programa Emprendedor Digital. 
+Formato: Audio y video para redes sociales y plataformas digitales. 
+Este proyecto actúa como habilitador cultural y comunicacional , conectando a la 
+ciudadanía y a las MIPYMES con los demás proyectos del programa , asegurando una 
+adopción digital sostenible y con impacto real. 
+ 
+PROPUESTA DE PLAN DE MEDIOS 
+Público Objetivo : La iniciativa está enfocada a emprendedores y mipymes a nivel 
+nacional; sin embargo, su alcance es inclusivo y está abierto a toda la ciudadanía 
+interesada en aprovechar las oportunidades que ofrecen la transformación digital. 
+Canales y Formatos de Difusión 
+Canal Subformato Frecuencia 
+Instagram / Facebook Reels 2/semana 
+Instagram / Facebook Stories 2/semana 
+Instagram / Facebook Carruseles 2/semana 
+TikTok Microvideos 2/semana 
+Spotify / YouTube Podcast 1/semana 
+YouTube Techtalk / Videos 2/mensual 
+ 
+Marca de trabajo P.U.N.C.H. para contenido con 'punch' 
+• P -Problema: Habla de un dolor real del público en los primeros 3s. 
+• U -Utilidad: Entrega un tip/checklist que pueda aplicar hoy. 
+• N -Novedad: Muestra herramienta/AI/atajo con mini demo. 
+• C -Contraste: Antes vs. Después / Mito vs. Realidad. 
+• H -Humano: Muestra rostro/voz/historia y emoción auténtica
+
+
+================================================================================
+PÁGINA 42
+================================================================================
+
+Página | 42 
+ 
+Indicadores clave de éxito (KPIs) 
+Los indicadores clave para evaluar el impacto del plan de medios incluyen: 
+• Número de visualizaciones por contenido 
+• Interacciones (likes, comentarios, compartidos) 
+• Guardados y clics en enlaces 
+• Tiempo promedio de reproducción 
+• Participación en encuestas y retos 
+• Crecimiento de seguidores por canal 
+ 
+Cronograma de publicaciones sugerido 
+El cronograma de publicación sugerido para 3 meses se detalla a continuación.: 
+Mes 1 
+ 
+Mes 2 
+ 
+Dom Lun Mar Miér Jue Vie Sáb
+1
+08:00 a 10:00 – Web Noticia/Blog
+19:00 a 20:30 – IG/FB Carruseles
+20:00 a 21:00 – TikTok 
+Microvideo (Reg)2
+06:00 a 09:00 – Spotify-Podcast 
+Episodio (quincenal)
+11:00 a 12:30 – IG/FB Reels 
+(Regular)3
+07:30 a 09:00 – Mailing Boletín 
+mensual
+12:00 a 13:30 – TikTok 
+Microvideo (Reg)
+17:30 a 18:30 – IG/FB Stories 
+(PM)4
+09:00 a 10:00 – IG/FB Carruseles
+5 6
+11:00 a 12:30 – IG/FB Reels 
+PopCulture
+12:00 a 13:30 – TikTok 
+Microvideo PopCulture7
+09:00 a 10:00 – IG/FB Stories 
+(AM)
+11:00 a 12:30 – IG/FB Reels 
+(Regular)
+18:00 a 20:00 – YouTube Techtalk 
+/ Video8
+08:00 a 10:00 – Web Noticia/Blog
+19:00 a 20:30 – IG/FB Carruseles
+20:00 a 21:00 – TikTok 
+Microvideo (Reg)9
+11:00 a 12:30 – IG/FB Reels 
+(Regular)10
+12:00 a 13:30 – TikTok 
+Microvideo (Reg)
+17:30 a 18:30 – IG/FB Stories 
+(PM)11
+09:00 a 10:00 – IG/FB Carruseles
+12 13
+11:00 a 12:30 – IG/FB Reels 
+PopCulture
+12:00 a 13:30 – TikTok 
+Microvideo PopCulture14
+09:00 a 10:00 – IG/FB Stories 
+(AM)
+11:00 a 12:30 – IG/FB Reels 
+(Regular)15
+08:00 a 10:00 – Web Noticia/Blog
+19:00 a 20:30 – IG/FB Carruseles
+20:00 a 21:00 – TikTok 
+Microvideo (Reg)16
+06:00 a 09:00 – Spotify-Podcast 
+Episodio (quincenal)
+11:00 a 12:30 – IG/FB Reels 
+(Regular)17
+12:00 a 13:30 – TikTok 
+Microvideo (Reg)
+17:30 a 18:30 – IG/FB Stories 
+(PM)18
+09:00 a 10:00 – IG/FB Carruseles
+19 20
+11:00 a 12:30 – IG/FB Reels 
+PopCulture
+12:00 a 13:30 – TikTok 
+Microvideo PopCulture21
+09:00 a 10:00 – IG/FB Stories 
+(AM)
+11:00 a 12:30 – IG/FB Reels 
+(Regular)
+18:00 a 20:00 – YouTube Techtalk 
+/ Video22
+08:00 a 10:00 – Web Noticia/Blog
+19:00 a 20:30 – IG/FB Carruseles
+20:00 a 21:00 – TikTok 
+Microvideo (Reg)23
+11:00 a 12:30 – IG/FB Reels 
+(Regular)24
+12:00 a 13:30 – TikTok 
+Microvideo (Reg)
+17:30 a 18:30 – IG/FB Stories 
+(PM)25
+09:00 a 10:00 – IG/FB Carruseles
+26 27
+11:00 a 12:30 – IG/FB Reels 
+PopCulture
+12:00 a 13:30 – TikTok 
+Microvideo PopCulture28
+09:00 a 10:00 – IG/FB Stories 
+(AM)
+11:00 a 12:30 – IG/FB Reels 
+(Regular)29
+08:00 a 10:00 – Web Noticia/Blog
+19:00 a 20:30 – IG/FB Carruseles
+20:00 a 21:00 – TikTok 
+Microvideo (Reg)30
+06:00 a 09:00 – Spotify-Podcast 
+Episodio (quincenal)
+11:00 a 12:30 – IG/FB Reels 
+(Regular)31
+12:00 a 13:30 – TikTok 
+Microvideo (Reg)
+17:30 a 18:30 – IG/FB Stories 
+(PM)CRONOGRAMA – INICIATIVA E-IMPULSA / Octubre 2025
+Dom Lun Mar Miér Jue Vie Sáb
+1
+09:00 a 10:00 – IG/FB Carruseles
+2 3
+11:00 a 12:30 – IG/FB Reels 
+PopCulture
+12:00 a 13:30 – TikTok 
+Microvideo PopCulture4
+09:00 a 10:00 – IG/FB Stories 
+(AM)
+11:00 a 12:30 – IG/FB Reels 
+(Regular)
+18:00 a 20:00 – YouTube Techtalk 
+/ Video5
+08:00 a 10:00 – Web Noticia/Blog
+19:00 a 20:30 – IG/FB Carruseles
+20:00 a 21:00 – TikTok 
+Microvideo (Reg)6
+11:00 a 12:30 – IG/FB Reels 
+(Regular)7
+07:30 a 09:00 – Mailing Boletín 
+mensual
+12:00 a 13:30 – TikTok 
+Microvideo (Reg)
+17:30 a 18:30 – IG/FB Stories 
+(PM)8
+09:00 a 10:00 – IG/FB Carruseles
+9 10
+11:00 a 12:30 – IG/FB Reels 
+PopCulture
+12:00 a 13:30 – TikTok 
+Microvideo PopCulture11
+09:00 a 10:00 – IG/FB Stories 
+(AM)
+11:00 a 12:30 – IG/FB Reels 
+(Regular)12
+08:00 a 10:00 – Web Noticia/Blog
+19:00 a 20:30 – IG/FB Carruseles
+20:00 a 21:00 – TikTok 
+Microvideo (Reg)13
+06:00 a 09:00 – Spotify-Podcast 
+Episodio (quincenal)
+11:00 a 12:30 – IG/FB Reels 
+(Regular)14
+12:00 a 13:30 – TikTok 
+Microvideo (Reg)
+17:30 a 18:30 – IG/FB Stories 
+(PM)15
+09:00 a 10:00 – IG/FB Carruseles
+16 17
+11:00 a 12:30 – IG/FB Reels 
+PopCulture
+12:00 a 13:30 – TikTok 
+Microvideo PopCulture18
+09:00 a 10:00 – IG/FB Stories 
+(AM)
+11:00 a 12:30 – IG/FB Reels 
+(Regular)
+18:00 a 20:00 – YouTube Techtalk 
+/ Video19
+08:00 a 10:00 – Web Noticia/Blog
+19:00 a 20:30 – IG/FB Carruseles
+20:00 a 21:00 – TikTok 
+Microvideo (Reg)20
+11:00 a 12:30 – IG/FB Reels 
+(Regular)21
+12:00 a 13:30 – TikTok 
+Microvideo (Reg)
+17:30 a 18:30 – IG/FB Stories 
+(PM)22
+09:00 a 10:00 – IG/FB Carruseles
+23 24
+11:00 a 12:30 – IG/FB Reels 
+PopCulture
+12:00 a 13:30 – TikTok 
+Microvideo PopCulture25
+09:00 a 10:00 – IG/FB Stories 
+(AM)
+11:00 a 12:30 – IG/FB Reels 
+(Regular)26
+08:00 a 10:00 – Web Noticia/Blog
+19:00 a 20:30 – IG/FB Carruseles
+20:00 a 21:00 – TikTok 
+Microvideo (Reg)27
+06:00 a 09:00 – Spotify-Podcast 
+Episodio (quincenal)
+11:00 a 12:30 – IG/FB Reels 
+(Regular)28
+12:00 a 13:30 – TikTok 
+Microvideo (Reg)
+17:30 a 18:30 – IG/FB Stories 
+(PM)29
+09:00 a 10:00 – IG/FB Carruseles
+30CRONOGRAMA – INICIATIVA E-IMPULSA / Noviembre 2025
+
+
+================================================================================
+PÁGINA 43
+================================================================================
+
+Página | 43 
+ 
+Mes 3 
+ 
+ 
+La presente planificación estratégica y operativa consolida una visión integral y 
+coherente de la transformación digital productiva del Ecuador, articulada a través del 
+Programa Nacional EMPODERATECH ECUADOR 2025 -2030 , concebido no como un 
+conjunto aislado de iniciativas, sino como un sistema de intervención público -productivo 
+orientado a generar impacto económico real. A lo largo de sus seis proyectos emblema, 
+el programa aborda de manera estructural las principales brechas del ecosistema digital: 
+acceso, capacidades, cultura, oferta tecnológica, demanda de mercado, gobernanza y 
+uso estratégico de los datos. 
+La planificación propuesta marca un cambio de enfoque en la política pública digital, 
+pasando de la capacitación general y la digitalización aislada hacia modelos de adopción 
+efectiva, donde la tecnología se traduce en ventas, formalización, empleo y 
+compe titividad. Iniciativas como los Vouchers Digitales articulados al Portal de Software 
+Ecuatoriano, las Brigadas TECH con venta digital asistida, los programas de comercio 
+digital internacional , así como los espacios de sensibilización, ciberseguridad y cultura 
+digital, conforman un entramado que reduce fricciones, activa demanda y fortalece el 
+ecosistema nacional de servicios digitales. 
+Asimismo, la planificación reconoce que la transformación digital sostenible requiere 
+personas, confianza y coordinación institucional, por lo que incorpora enfoques 
+transversales de inclusión territorial, género, ciberseguridad, gobernanza y datos 
+abierto s. La actualización de las agendas nacionales de economía digital, comercio 
+digital e inteligencia artificial, junto con la creación de mecanismos de monitoreo, 
+indicadores y observatorios, garantiza una implementación basada en evidencia y 
+alineada a estándares internacionales. 
+ 
+Dom Lun Mar Miér Jue Vie Sáb
+1
+11:00 a 12:30 – IG/FB Reels 
+PopCulture
+12:00 a 13:30 – TikTok 
+Microvideo PopCulture2
+09:00 a 10:00 – IG/FB Stories 
+(AM)
+11:00 a 12:30 – IG/FB Reels 
+(Regular)
+18:00 a 20:00 – YouTube Techtalk 
+/ Video3
+08:00 a 10:00 – Web Noticia/Blog
+19:00 a 20:30 – IG/FB Carruseles
+20:00 a 21:00 – TikTok 
+Microvideo (Reg)4
+11:00 a 12:30 – IG/FB Reels 
+(Regular)5
+07:30 a 09:00 – Mailing Boletín 
+mensual
+12:00 a 13:30 – TikTok 
+Microvideo (Reg)
+17:30 a 18:30 – IG/FB Stories 
+(PM)6
+09:00 a 10:00 – IG/FB Carruseles
+7 8
+11:00 a 12:30 – IG/FB Reels 
+PopCulture
+12:00 a 13:30 – TikTok 
+Microvideo PopCulture9
+09:00 a 10:00 – IG/FB Stories 
+(AM)
+11:00 a 12:30 – IG/FB Reels 
+(Regular)10
+08:00 a 10:00 – Web Noticia/Blog
+19:00 a 20:30 – IG/FB Carruseles
+20:00 a 21:00 – TikTok 
+Microvideo (Reg)11
+06:00 a 09:00 – Spotify-Podcast 
+Episodio (quincenal)
+11:00 a 12:30 – IG/FB Reels 
+(Regular)12
+12:00 a 13:30 – TikTok 
+Microvideo (Reg)
+17:30 a 18:30 – IG/FB Stories 
+(PM)13
+09:00 a 10:00 – IG/FB Carruseles
+14 15
+11:00 a 12:30 – IG/FB Reels 
+PopCulture
+12:00 a 13:30 – TikTok 
+Microvideo PopCulture16
+09:00 a 10:00 – IG/FB Stories 
+(AM)
+11:00 a 12:30 – IG/FB Reels 
+(Regular)
+18:00 a 20:00 – YouTube Techtalk 
+/ Video17
+08:00 a 10:00 – Web Noticia/Blog
+19:00 a 20:30 – IG/FB Carruseles
+20:00 a 21:00 – TikTok 
+Microvideo (Reg)18
+11:00 a 12:30 – IG/FB Reels 
+(Regular)19
+12:00 a 13:30 – TikTok 
+Microvideo (Reg)
+17:30 a 18:30 – IG/FB Stories 
+(PM)20
+09:00 a 10:00 – IG/FB Carruseles
+21 22
+11:00 a 12:30 – IG/FB Reels 
+PopCulture
+12:00 a 13:30 – TikTok 
+Microvideo PopCulture23
+09:00 a 10:00 – IG/FB Stories 
+(AM)
+11:00 a 12:30 – IG/FB Reels 
+(Regular)24
+08:00 a 10:00 – Web Noticia/Blog
+19:00 a 20:30 – IG/FB Carruseles
+20:00 a 21:00 – TikTok 
+Microvideo (Reg)25
+06:00 a 09:00 – Spotify-Podcast 
+Episodio (quincenal)
+11:00 a 12:30 – IG/FB Reels 
+(Regular)26
+12:00 a 13:30 – TikTok 
+Microvideo (Reg)
+17:30 a 18:30 – IG/FB Stories 
+(PM)27
+09:00 a 10:00 – IG/FB Carruseles
+28 29
+11:00 a 12:30 – IG/FB Reels 
+PopCulture
+12:00 a 13:30 – TikTok 
+Microvideo PopCulture30
+09:00 a 10:00 – IG/FB Stories 
+(AM)
+11:00 a 12:30 – IG/FB Reels 
+(Regular)31
+08:00 a 10:00 – Web Noticia/Blog
+19:00 a 20:30 – IG/FB Carruseles
+20:00 a 21:00 – TikTok 
+Microvideo (Reg)CRONOGRAMA – INICIATIVA E-IMPULSA / Diciembre 2025
+
+
+================================================================================
+PÁGINA 44
+================================================================================
+
+Página | 44 
+ 
+En conjunto, esta planificación sienta las bases para que el Ecuador avance hacia una 
+economía digital productiva, inclusiva y competitiva, donde la tecnología no sea un fin 
+en sí mismo, sino una herramienta concreta para mejorar la vida de las personas, 
+fortalecer a las MIPYMES y emprendedores , y, posicionar al país en los mercados 
+digitales del siglo XXI.
+
